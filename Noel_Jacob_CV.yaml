@@ -1,17 +1,17 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 cv:
   name: Noel Jacob
-  headline:
+  headline: Management (Finance and Analytics) Student and Programmer
   location: Kochi, Kerala
   email: noeljacob91@gmail.com
   photo:
-  phone:
+  phone: "+917994018147"
   website: https://rendercv.com/
   social_networks:
     - network: LinkedIn
-      username: rendercv
+      username: noel-jacob
     - network: GitHub
-      username: rendercv
+      username: noeljacob
   custom_connections:
   sections:
     Welcome to RenderCV:
@@ -186,13 +186,13 @@ cv:
       - The `design` field in YAML gives you control over almost any aspect of your CV design.
       - See the [documentation](https://docs.rendercv.com) for more details.
 design:
-  theme: classic
-  # page:
-  #   size: us-letter
-  #   top_margin: 0.7in
-  #   bottom_margin: 0.7in
-  #   left_margin: 0.7in
-  #   right_margin: 0.7in
+  theme: engineeringresumes
+  page:
+    size: a4
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.7in
+    right_margin: 0.7in
   #   show_footer: true
   #   show_top_note: true
   # colors:
@@ -204,9 +204,9 @@ design:
   #   links: rgb(0, 79, 144)
   #   footer: rgb(128, 128, 128)
   #   top_note: rgb(128, 128, 128)
-  # typography:
-  #   line_spacing: 0.6em
-  #   alignment: justified
+  typography:
+    line_spacing: 0.4em
+    alignment: justified-with-no-hyphenation
   #   date_and_location_column_alignment: right
   #   font_family:
   #     body: Source Sans 3
@@ -214,43 +214,43 @@ design:
   #     headline: Source Sans 3
   #     connections: Source Sans 3
   #     section_titles: Source Sans 3
-  #   font_size:
+    font_size:
   #     body: 10pt
-  #     name: 30pt
+      name: 25pt
   #     headline: 10pt
   #     connections: 10pt
   #     section_titles: 1.4em
-  #   small_caps:
+    small_caps:
   #     name: false
-  #     headline: false
+      headline: true
   #     connections: false
   #     section_titles: false
-  #   bold:
-  #     name: true
-  #     headline: false
-  #     connections: false
+    bold:
+      name: true
+      headline: false
+      connections: false
   #     section_titles: true
-  # links:
-  #   underline: false
-  #   show_external_link_icon: false
-  # header:
+  links:
+    underline: true
+    show_external_link_icon: true
+  header:
   #   alignment: center
   #   photo_width: 3.5cm
   #   photo_position: left
   #   photo_space_left: 0.4cm
   #   photo_space_right: 0.4cm
-  #   space_below_name: 0.7cm
-  #   space_below_headline: 0.7cm
-  #   space_below_connections: 0.7cm
-  #   connections:
-  #     phone_number_format: national
-  #     hyperlink: true
+    space_below_name: 0.7cm
+    space_below_headline: 0.5cm
+    space_below_connections: 0.7cm
+    connections:
+      phone_number_format: international
+      hyperlink: true
   #     show_icons: true
   #     display_urls_instead_of_usernames: false
   #     separator: ''
   #     space_between_connections: 0.5cm
-  # section_titles:
-  #   type: with_partial_line
+  section_titles:
+    type: with_full_line
   #   line_thickness: 0.5pt
   #   space_above: 0.5cm
   #   space_below: 0.3cm
