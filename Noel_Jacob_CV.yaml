@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 cv:
   name: Noel Jacob
-  headline: Management (Finance and Analytics) Student and Programmer
+  headline: PGDM Student (Finance and Analytics) and Programmer
   location: Kochi, Kerala
   email: noeljacob91@gmail.com
   photo:
   phone: "+917994018147"
-  website: https://rendercv.com/
+  # website:
   social_networks:
     - network: LinkedIn
       username: noel-jacob
@@ -14,153 +14,123 @@ cv:
       username: noeljacob
   custom_connections:
   sections:
-    Welcome to RenderCV:
-      - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
-      - See the [documentation](https://docs.rendercv.com) for more details.
+    about:
+      - Hardworking **PGDM (MBA) student** with a passion for Finance, Accounting and Statistics subjects.  I focus on using mathematical methods to solve real-world financal challenges.
+      - I am also a self-taught **Machine Learning expert** who adapts to industry trends. I learn fast, think hard, and deliver results.
     education:
-      - institution: Princeton University
-        area: Computer Science
-        degree: PhD
+      - institution: Università di Padova
+        area: Computational Finance (ML), Business Studies
+        degree: Erasmus
         date:
-        start_date: 2018-09
-        end_date: 2023-05
-        location: Princeton, NJ
+        start_date: 2025-02
+        end_date: 2025-07
+        location: Padova, Italy
         summary:
         highlights:
-          - "Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment"
-          - "Advisor: Prof. Sanjeev Arora"
-          - NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
-      - institution: Boğaziçi University
-        area: Computer Engineering
-        degree: BS
+      - institution: Rajagiri Business School
+        area: Finance and Analytics
+        degree: PGDM (MBA)
         date:
-        start_date: 2014-09
-        end_date: 2018-06
-        location: Istanbul, Türkiye
+        start_date: 2024-07
+        end_date: 2026-03
+        location: Kochi, India
         summary:
         highlights:
-          - "GPA: 3.97/4.00, Valedictorian"
-          - Fulbright Scholarship recipient for graduate studies
+          - Awarded **Erasmus+ EU Scholarship** for fully funded exchange at one of Italy's top uni
+          - Awarded **Rajagiri Scholarship for Excellence (RiSE)** for highest amount among all winners
+          - Current **Technology Lead** of IEDC (startup incubator)
+          - RNBQ experience
+      - institution: "Mahatma Gandhi University"
+        area: "English"
+        degree: "BA"
+        date:
+        start_date: "2020-07"
+        end_date: "2023-03"
+        location:
+        summary:
+        highlights:
+          - "Did final thesis on LLMs and English language."
     experience:
-      - company: Nexus AI
+      - company: Pangolin Analytics
         position: Co-Founder & CTO
         date:
-        start_date: 2023-06
+        start_date: 2025-11
         end_date: present
-        location: San Francisco, CA
+        location: Remote
         summary:
         highlights:
-          - Built foundation model infrastructure serving 2M+ monthly API requests with 99.97% uptime
-          - Raised $18M Series A led by Sequoia Capital, with participation from a16z and Founders Fund
-          - Scaled engineering team from 3 to 28 across ML research, platform, and applied AI divisions
-          - Developed proprietary inference optimization reducing latency by 73% compared to baseline
-      - company: NVIDIA Research
-        position: Research Intern
+          - Bootstapped an analytics consulting company to gain real world working experice
+          - Supported by co-founders from Oxford University and Glasgow University
+      - company: Grant Thornthon Bharath
+        position: Live Project
         date:
         start_date: 2022-05
         end_date: 2022-08
-        location: Santa Clara, CA
+        location: Remote
         summary:
         highlights:
-          - Designed sparse attention mechanism reducing transformer memory footprint by 4.2x
-          - Co-authored paper accepted at NeurIPS 2022 (spotlight presentation, top 5% of submissions)
-      - company: Google DeepMind
-        position: Research Intern
-        date:
-        start_date: 2021-05
-        end_date: 2021-08
-        location: London, UK
-        summary:
-        highlights:
-          - Developed reinforcement learning algorithms for multi-agent coordination
-          - Published research at top-tier venues with significant academic impact
-            - ICML 2022 main conference paper, cited 340+ times within two years
-            - NeurIPS 2022 workshop paper on emergent communication protocols
-            - Invited journal extension in JMLR (2023)
-      - company: Apple ML Research
-        position: Research Intern
-        date:
-        start_date: 2020-05
-        end_date: 2020-08
-        location: Cupertino, CA
-        summary:
-        highlights:
-          - Created on-device neural network compression pipeline deployed across 50M+ devices
-          - Filed 2 patents on efficient model quantization techniques for edge inference
-      - company: Microsoft Research
-        position: Research Intern
-        date:
-        start_date: 2019-05
-        end_date: 2019-08
-        location: Redmond, WA
-        summary:
-        highlights:
-          - Implemented novel self-supervised learning framework for low-resource language modeling
-          - Research integrated into Azure Cognitive Services, reducing training data requirements by 60%
+          - Measured the impact of Quick Commerce on Kirana stores after taking questionare based survey of stores in Ernakulam and Thrissur district
+          - Assimilated the survey data and did a presentation of Quick Commerce impact at different geographies
     projects:
-      - name: "[FlashInfer](https://github.com/)"
-        date:
-        start_date: 2023-01
-        end_date: present
-        location:
-        summary: Open-source library for high-performance LLM inference kernels
-        highlights:
-          - Achieved 2.8x speedup over baseline attention implementations on A100 GPUs
-          - Adopted by 3 major AI labs, 8,500+ GitHub stars, 200+ contributors
-      - name: "[NeuralPrune](https://github.com/)"
-        date: "2021"
+      - name: Delulu AI
+        date: 2024-09
         start_date:
         end_date:
         location:
-        summary: Automated neural network pruning toolkit with differentiable masks
+        summary: LLM chat app like Perplexity but with your API keys and open-source models (**rust, flutter, langchain lib**)
         highlights:
-          - Reduced model size by 90% with less than 1% accuracy degradation on ImageNet
-          - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
+      - name: Arch Linux Package Maintainer
+        date: 2024-04
+        start_date:
+        end_date:
+        location: "[github](https://github.com/NoelJacob/aur)"
+        summary: Distrubutes builds of packages like Bun (fastest JS runtime) for Arch users (**rust, github actions**)
+        highlights:
+      - name: Zig Compiler Manager
+        date: 2024-03
+        start_date:
+        end_date:
+        location: "[github](https://github.com/noeljacob/zman)"
+        summary: Install and manage different versions of compilers for Zig language (**rust, clap lib**)
+        highlights:
+      - name: Crypto Wallet
+        date: 2022-11
+        start_date:
+        end_date:
+        location: "[github](https://github.com/NoelJacob/algorand-desktop)"
+        summary: Crypto wallet for Algorand blockchain, with NFT support. Built for Win, Linux, Mac platforms (**rust, javascript, tauri lib**)
+        highlights:
+      - name: Algotrader for Crypto
+        date: 2022-02
+        start_date:
+        end_date:
+        location:
+        summary: Trades multiple crypto pairs by scraping sites for buy sell signals and uses Binance API. (**javascript, nodejs**)
+        highlights:
+      - name: COVID Dashboard
+        date: 2021-06
+        start_date:
+        end_date:
+        location:
+        summary: Shows graph with spread per country with AI spread predictions. (**redis, redis AI, react**)
+        highlights:
     publications:
-      - title: "Sparse Mixture-of-Experts at Scale: Efficient Routing for Trillion-Parameter Models"
+      - title: "(**Upcoming**) Effect of Energy Consumption of Bitcoin Mining Firms on Price Ratios"
         authors:
-          - "*John Doe*"
-          - Sarah Williams
-          - David Park
-        summary:
-        doi: 10.1234/neurips.2023.1234
+          - "***Noel Jacob***"
+          - "**Prof. Rintu Anthony**"
+        summary: Co-authored by Prof. Rintu Anthony. This paper uses a novel approach of generating a synthetic score for energy consumption by indigesting exchange filings using LLM. Then, finding finding its effect on return-over-assets.
+        doi:
         url:
-        journal: NeurIPS 2023
-        date: 2023-07
-      - title: Neural Architecture Search via Differentiable Pruning
-        authors:
-          - James Liu
-          - "*John Doe*"
-        summary:
-        doi: 10.1234/neurips.2022.5678
-        url:
-        journal: NeurIPS 2022, Spotlight
-        date: 2022-12
-      - title: Multi-Agent Reinforcement Learning with Emergent Communication
-        authors:
-          - Maria Garcia
-          - "*John Doe*"
-          - Tom Anderson
-        summary:
-        doi: 10.1234/icml.2022.9012
-        url:
-        journal: ICML 2022
-        date: 2022-07
-      - title: On-Device Model Compression via Learned Quantization
-        authors:
-          - "*John Doe*"
-          - Kevin Wu
-        summary:
-        doi: 10.1234/iclr.2021.3456
-        url:
-        journal: ICLR 2021, Best Paper Award
-        date: 2021-05
-    selected_honors:
-      - bullet: MIT Technology Review 35 Under 35 Innovators (2024)
-      - bullet: Forbes 30 Under 30 in Enterprise Technology (2024)
-      - bullet: ACM Doctoral Dissertation Award Honorable Mention (2023)
-      - bullet: Google PhD Fellowship in Machine Learning (2020 – 2023)
-      - bullet: Fulbright Scholarship for Graduate Studies (2018)
+        journal:
+        date: 2026
+    prizes:
+      - number: "**Agentic AI Challenge** 1st by Rajagiri Business School (2025)"
+      - number: "**Best Manager Competition** Finalist by SCMS College (2025)"
+      - number: "**Best Manager Competition** Finalist by SCMS College (2024)"
+      - number: "**MindsDB Machine Learning** 2nd (2022)"
+      - number: "**TON Blockchain Smart Contract** Shared prize pool (2022)"
+      - number: "**Machine Learning Challenge** 1st at SRM University (2020)"
     skills:
       - label: Languages
         details: Python, C++, CUDA, Rust, Julia
@@ -208,26 +178,26 @@ design:
     line_spacing: 0.4em
     alignment: justified-with-no-hyphenation
   #   date_and_location_column_alignment: right
-  #   font_family:
-  #     body: Source Sans 3
-  #     name: Source Sans 3
-  #     headline: Source Sans 3
-  #     connections: Source Sans 3
-  #     section_titles: Source Sans 3
+    font_family:
+      body: Helvetica
+      name: Helvetica
+      headline: Helvetica
+      connections: Helvetica
+      section_titles: Helvetica
     font_size:
   #     body: 10pt
       name: 25pt
   #     headline: 10pt
   #     connections: 10pt
   #     section_titles: 1.4em
-    small_caps:
+    # small_caps:
   #     name: false
-      headline: true
+      # headline: true
   #     connections: false
   #     section_titles: false
     bold:
       name: true
-      headline: false
+      headline: true
       connections: false
   #     section_titles: true
   links:
@@ -251,13 +221,13 @@ design:
   #     space_between_connections: 0.5cm
   section_titles:
     type: with_full_line
-  #   line_thickness: 0.5pt
-  #   space_above: 0.5cm
-  #   space_below: 0.3cm
-  # sections:
+    line_thickness: 0.3pt
+    space_above: 0.3cm
+    space_below: 0.3cm
+  sections:
   #   allow_page_break: true
-  #   space_between_regular_entries: 1.2em
-  #   space_between_text_based_entries: 0.3em
+    space_between_regular_entries: 0.5em
+    # space_between_text_based_entries: 0.3em
   #   show_time_spans_in:
   #     - experience
   # entries:
@@ -276,7 +246,7 @@ design:
   #     space_above: 0cm
   #     space_between_items: 0cm
   #     space_between_bullet_and_text: 0.5em
-  # templates:
+  templates:
   #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
   #   top_note: '*LAST_UPDATED CURRENT_DATE*'
   #   single_date: MONTH_ABBREVIATION YEAR
@@ -301,21 +271,21 @@ design:
   #     date_and_location_column: |-
   #       LOCATION
   #       DATE
-  #   experience_entry:
-  #     main_column: |-
-  #       **COMPANY**, POSITION
-  #       SUMMARY
-  #       HIGHLIGHTS
-  #     date_and_location_column: |-
-  #       LOCATION
-  #       DATE
-  #   publication_entry:
-  #     main_column: |-
-  #       **TITLE**
-  #       SUMMARY
-  #       AUTHORS
-  #       URL (JOURNAL)
-  #     date_and_location_column: DATE
+    experience_entry:
+      main_column: |-
+        POSITION, **COMPANY**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
 locale:
   language: english
   # last_updated: Last updated in
