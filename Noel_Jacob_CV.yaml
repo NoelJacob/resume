@@ -66,12 +66,12 @@ cv:
         summary:
         highlights:
           - Bootstrapped a consulting company to gain experience solving real world problems
-          - Supported by co-founders from Oxford University and Glasgow University
+          - Supported by co-founders from Oxford University and Glasgow University, UK
       - company: Grant Thornthon Bharath
         position: Live Project
         date:
-        start_date: 2022-05
-        end_date: 2022-08
+        start_date: 2025-09
+        end_date: 2025-10
         location: Remote
         summary:
         highlights:
@@ -156,12 +156,12 @@ cv:
       - label: Blockchain (16)
         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
     extracurricular_activities:
-      - number: "**Agentic AI Challenge - 1st** by Rajagiri Business School (2025)"
-      - number: "**Best Manager Competition - Finalist** by SCMS College (2025)"
-      - number: "**Best Manager Competition - Finalist** by SCMS College (2024)"
+      - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
+      - number: "**Best Manager Competition - Finalist** at SCMS College fest (2025)"
+      - number: "**Best Manager Competition - Finalist** at SCMS College fest (2024)"
       - number: "**MindsDB Machine Learning - 2nd** (2022)"
       - number: "**Ton Blockchain Smart Contract - Shared prize** pool money (2022)"
-      - number: "**Machine Learning Challenge - 1st** at SRM University (2020)"
+      - number: "**Machine Learning Challenge - 1st** at SRM University fest (2020)"
 
 design:
   theme: engineeringresumes

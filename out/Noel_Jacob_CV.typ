@@ -181,7 +181,7 @@ Hardworking #strong[PGDM (MBA) student] with a passion for Finance, Accounting a
 
   ],
   main-column-second-row: [
-    - Supported by co-founders from Oxford University and Glasgow University
+    - Supported by co-founders from Oxford University and Glasgow University, UK
 
   ],
 )
@@ -196,7 +196,7 @@ Hardworking #strong[PGDM (MBA) student] with a passion for Finance, Accounting a
   [
     Remote
 
-    May 2022 – Aug 2022
+    Sept 2025 – Oct 2025
 
   ],
   main-column-second-row: [
@@ -348,14 +348,14 @@ Hardworking #strong[PGDM (MBA) student] with a passion for Finance, Accounting a
 
 == Extracurricular Activities
 
-+ #strong[Agentic AI Challenge - 1st] by Rajagiri Business School (2025)
++ #strong[Agentic AI Challenge - 1st] at Rajagiri Business School (2025)
 
-+ #strong[Best Manager Competition - Finalist] by SCMS College (2025)
++ #strong[Best Manager Competition - Finalist] at SCMS College fest (2025)
 
-+ #strong[Best Manager Competition - Finalist] by SCMS College (2024)
++ #strong[Best Manager Competition - Finalist] at SCMS College fest (2024)
 
 + #strong[MindsDB Machine Learning - 2nd] (2022)
 
 + #strong[Ton Blockchain Smart Contract - Shared prize] pool money (2022)
 
-+ #strong[Machine Learning Challenge - 1st] at SRM University (2020)
++ #strong[Machine Learning Challenge - 1st] at SRM University fest (2020)
