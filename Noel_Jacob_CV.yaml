@@ -55,7 +55,7 @@ cv:
       - number: "**CAT Exam - 91.25 %ile** nationally (95.8% Quants, 96.6% Verbal) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (97.5% Decision Making) (2024)"
       - number: "**Master of Computer Applications Entrance - Rank 101** in Kerala State (2024)"
-      - number: "(Upcoming) **CFA Level-I** Registered for 2026 May exam (2026)"
+      # - number: "(Upcoming) **CFA Level-I** Registered for 2026 May exam (2026)"
     experience:
       - company: Pangolin Analytics
         position: Co-Founder & CTO

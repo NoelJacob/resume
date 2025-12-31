@@ -163,8 +163,6 @@ Hardworking #strong[PGDM (MBA) student] with a passion for Finance, Accounting a
 
 + #strong[Master of Computer Applications Entrance - Rank 101] in Kerala State (2024)
 
-+ (Upcoming) #strong[CFA Level-I] Registered for 2026 May exam (2026)
-
 == Experience
 
 #regular-entry(
