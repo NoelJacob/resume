@@ -15,11 +15,10 @@ cv:
   custom_connections:
   sections:
     about:
-      - Hardworking **PGDM (MBA) student** with a passion for Finance, Accounting and Statistics subjects.  I focus on using mathematical methods to solve real-world financal challenges.
-      - I am also a self-taught **Machine Learning expert** who adapts to industry trends. I learn fast, think hard, and deliver results.
+      - Hardworking **PGDM (MBA) student** with a passion for Finance, Accounting and Statistics subjects.  I focus on using mathematical methods to solve real-world financial challenges. I am also a self-taught **Machine Learning expert** who can adapt to industry requirements. **I learn fast, think hard, and deliver results.**
     education:
-      - institution: Università di Padova
-        area: Computational Finance (ML), Business Studies
+      - institution: University of Padova
+        area: Computational Finance (ML), Business Management
         degree: Erasmus
         date:
         start_date: 2025-02
@@ -27,6 +26,7 @@ cv:
         location: Padova, Italy
         summary:
         highlights:
+          - Took part in various math and quant workshops by industry leaders
       - institution: Rajagiri Business School
         area: Finance and Analytics
         degree: PGDM (MBA)
@@ -36,10 +36,9 @@ cv:
         location: Kochi, India
         summary:
         highlights:
-          - Awarded **Erasmus+ EU Scholarship** for fully funded exchange at one of Italy's top uni
-          - Awarded **Rajagiri Scholarship for Excellence (RiSE)** for highest amount among all winners
-          - Current **Technology Lead** of IEDC (startup incubator)
-          - RNBQ experience
+          - Current **Technology Lead** of IEDC, the college startup incubator
+          - Part of organisers for Rajagiri National Business Quiz, India's 2nd largest, and increased participation by 40%
+          - Attended Banglore Tech Fest, representing college, to understand current tech landscape
       - institution: "Mahatma Gandhi University"
         area: "English"
         degree: "BA"
@@ -49,7 +48,14 @@ cv:
         location:
         summary:
         highlights:
-          - "Did final thesis on LLMs and English language."
+          - Did final thesis on LLMs and English language
+    accomplishments:
+      - number: "**Erasmus+ Scholarship** Fully funded exchange at University of Padova, Italy by EU (2024)"
+      - number: "**Rajagiri Scholarship for Excellence (RiSE)** Highest fee waiver awarded among all winners (2024)"
+      - number: "**CAT Exam - 91.25 %ile** nationally (95.8% Quants, 96.6% Verbal) (2023)"
+      - number: "**XAT Exam - 90.1 %ile** nationally (97.5% Decision Making) (2024)"
+      - number: "**Master of Computer Applications Entrance - Rank 101** in Kerala State (2024)"
+      - number: "(Upcoming) **CFA Level-I** Registered for 2026 May exam (2026)"
     experience:
       - company: Pangolin Analytics
         position: Co-Founder & CTO
@@ -59,7 +65,7 @@ cv:
         location: Remote
         summary:
         highlights:
-          - Bootstapped an analytics consulting company to gain real world working experice
+          - Bootstrapped a consulting company to gain experience solving real world problems
           - Supported by co-founders from Oxford University and Glasgow University
       - company: Grant Thornthon Bharath
         position: Live Project
@@ -69,8 +75,29 @@ cv:
         location: Remote
         summary:
         highlights:
-          - Measured the impact of Quick Commerce on Kirana stores after taking questionare based survey of stores in Ernakulam and Thrissur district
+          - Measured the impact of Quick Commerce on Kirana stores after taking questionnaire based survey of stores in Ernakulam and Thrissur district
           - Assimilated the survey data and did a presentation of Quick Commerce impact at different geographies
+    skills:
+      - label: Tools
+        details: Excel, Alteryx, Mathematica, SPSS, Stata
+      - label: Finance
+        details: Reconciliation, Financial Accounting, Transactional, Fraud analysis
+      - label: Quant
+        details: Financial Modeling, Time-series analysis, Statistical analysis
+      - label: Tech
+        details: Python, Rust, JavaScript, PyTorch, CatBoost, Llama.cpp, N8N, Flutter, Pandas, SQL
+      - label: Infrastructure
+        details: Docker, Github actions, Amazon AWS, Google cloud platform, LLM deployment, AI-agent workflow
+    publications:
+      - title: "(**Upcoming**) Effect of Energy Usage of Public Bitcoin Mining Firms on Price Ratios"
+        authors:
+          - "***Noel Jacob***"
+          - "**Prof. Rintu Anthony**"
+        summary: Co-authored by Prof. Rintu Anthony, this paper uses a novel approach of generating a synthetic score for energy consumption by ingesting regulatory filings using LLM. Then, finds its effect on company's return-over-assets.
+        doi:
+        url:
+        journal:
+        date: 2026
     projects:
       - name: Delulu AI
         date: 2024-09
@@ -84,7 +111,7 @@ cv:
         start_date:
         end_date:
         location: "[github](https://github.com/NoelJacob/aur)"
-        summary: Distrubutes builds of packages like Bun (fastest JS runtime) for Arch users (**rust, github actions**)
+        summary: Distributes builds of packages like Bun (fastest JS runtime) for Arch users (**rust, github actions**)
         highlights:
       - name: Zig Compiler Manager
         date: 2024-03
@@ -114,47 +141,28 @@ cv:
         location:
         summary: Shows graph with spread per country with AI spread predictions. (**redis, redis AI, react**)
         highlights:
-    publications:
-      - title: "(**Upcoming**) Effect of Energy Consumption of Bitcoin Mining Firms on Price Ratios"
-        authors:
-          - "***Noel Jacob***"
-          - "**Prof. Rintu Anthony**"
-        summary: Co-authored by Prof. Rintu Anthony. This paper uses a novel approach of generating a synthetic score for energy consumption by indigesting exchange filings using LLM. Then, finding finding its effect on return-over-assets.
-        doi:
-        url:
-        journal:
-        date: 2026
-    prizes:
-      - number: "**Agentic AI Challenge** 1st by Rajagiri Business School (2025)"
-      - number: "**Best Manager Competition** Finalist by SCMS College (2025)"
-      - number: "**Best Manager Competition** Finalist by SCMS College (2024)"
-      - number: "**MindsDB Machine Learning** 2nd (2022)"
-      - number: "**TON Blockchain Smart Contract** Shared prize pool (2022)"
-      - number: "**Machine Learning Challenge** 1st at SRM University (2020)"
-    skills:
-      - label: Languages
-        details: Python, C++, CUDA, Rust, Julia
-      - label: ML Frameworks
-        details: PyTorch, JAX, TensorFlow, Triton, ONNX
-      - label: Infrastructure
-        details: Kubernetes, Ray, distributed training, AWS, GCP
-      - label: Research Areas
-        details: Neural architecture search, model compression, efficient inference, multi-agent RL
-    patents:
-      - number: Adaptive Quantization for Neural Network Inference on Edge Devices (US Patent 11,234,567)
-      - number: Dynamic Sparsity Patterns for Efficient Transformer Attention (US Patent 11,345,678)
-      - number: Hardware-Aware Neural Architecture Search Method (US Patent 11,456,789)
-    invited_talks:
-      - reversed_number: Scaling Laws for Efficient Inference — Stanford HAI Symposium (2024)
-      - reversed_number: Building AI Infrastructure for the Next Decade — TechCrunch Disrupt (2024)
-      - reversed_number: "From Research to Production: Lessons in ML Systems — NeurIPS Workshop (2023)"
-      - reversed_number: "Efficient Deep Learning: A Practitioner's Perspective — Google Tech Talk (2022)"
-    any_section_title:
-      - You can use any section title you want.
-      - "You can choose any entry type for the section: `TextEntry`, `ExperienceEntry`, `EducationEntry`, `PublicationEntry`, `BulletEntry`, `NumberedEntry`, or `ReversedNumberedEntry`."
-      - Markdown syntax is supported everywhere.
-      - The `design` field in YAML gives you control over almost any aspect of your CV design.
-      - See the [documentation](https://docs.rendercv.com) for more details.
+    professional_certificates:
+      - number: "**NISM: Mutual Fund Distributors** Allows to distribute mutual funds to consumers in India (2025)"
+      - number: "**Alteryx Core** Use Alteryx to create low-code workflows (2025)"
+    course_certificates:
+      - label: Total
+        details: "**52 courses completed on Coursera, edX, etc**"
+      - label: Finance (11)
+        details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB (2), LMU Munich (3), etc
+      - label: Machine Learning (21)
+        details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
+      - label: Data Science (4)
+        details: Python libraries from Johns Hopkins University, IBM, University of Michigan
+      - label: Blockchain (16)
+        details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
+    extracurricular_activities:
+      - number: "**Agentic AI Challenge - 1st** by Rajagiri Business School (2025)"
+      - number: "**Best Manager Competition - Finalist** by SCMS College (2025)"
+      - number: "**Best Manager Competition - Finalist** by SCMS College (2024)"
+      - number: "**MindsDB Machine Learning - 2nd** (2022)"
+      - number: "**Ton Blockchain Smart Contract - Shared prize** pool money (2022)"
+      - number: "**Machine Learning Challenge - 1st** at SRM University (2020)"
+
 design:
   theme: engineeringresumes
   page:
@@ -163,7 +171,7 @@ design:
     bottom_margin: 0.5in
     left_margin: 0.7in
     right_margin: 0.7in
-  #   show_footer: true
+    # show_footer: true
   #   show_top_note: true
   # colors:
   #   body: rgb(0, 0, 0)
@@ -175,9 +183,9 @@ design:
   #   footer: rgb(128, 128, 128)
   #   top_note: rgb(128, 128, 128)
   typography:
-    line_spacing: 0.4em
+    line_spacing: 0.5em
     alignment: justified-with-no-hyphenation
-  #   date_and_location_column_alignment: right
+    # date_and_location_column_alignment: right
     font_family:
       body: Helvetica
       name: Helvetica
@@ -185,16 +193,16 @@ design:
       connections: Helvetica
       section_titles: Helvetica
     font_size:
-  #     body: 10pt
+      #     body: 10pt
       name: 25pt
-  #     headline: 10pt
-  #     connections: 10pt
-  #     section_titles: 1.4em
+    #     headline: 10pt
+    #     connections: 10pt
+    #     section_titles: 1.4em
     # small_caps:
-  #     name: false
-      # headline: true
-  #     connections: false
-  #     section_titles: false
+    #     name: false
+    # headline: true
+    #     connections: false
+    #     section_titles: false
     bold:
       name: true
       headline: true
@@ -204,11 +212,11 @@ design:
     underline: true
     show_external_link_icon: true
   header:
-  #   alignment: center
-  #   photo_width: 3.5cm
-  #   photo_position: left
-  #   photo_space_left: 0.4cm
-  #   photo_space_right: 0.4cm
+    #   alignment: center
+    #   photo_width: 3.5cm
+    #   photo_position: left
+    #   photo_space_left: 0.4cm
+    #   photo_space_right: 0.4cm
     space_below_name: 0.7cm
     space_below_headline: 0.5cm
     space_below_connections: 0.7cm
@@ -225,11 +233,11 @@ design:
     space_above: 0.3cm
     space_below: 0.3cm
   sections:
-  #   allow_page_break: true
+    #   allow_page_break: true
     space_between_regular_entries: 0.5em
     # space_between_text_based_entries: 0.3em
-  #   show_time_spans_in:
-  #     - experience
+    # show_time_spans_in:
+    #   - experience
   # entries:
   #   date_and_location_width: 4.15cm
   #   side_space: 0.2cm
@@ -247,30 +255,30 @@ design:
   #     space_between_items: 0cm
   #     space_between_bullet_and_text: 0.5em
   templates:
-  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
-  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
-  #   single_date: MONTH_ABBREVIATION YEAR
-  #   date_range: START_DATE – END_DATE
-  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
-  #   one_line_entry:
-  #     main_column: '**LABEL:** DETAILS'
-  #   education_entry:
-  #     main_column: |-
-  #       **INSTITUTION**, AREA
-  #       SUMMARY
-  #       HIGHLIGHTS
-  #     degree_column: '**DEGREE**'
-  #     date_and_location_column: |-
-  #       LOCATION
-  #       DATE
-  #   normal_entry:
-  #     main_column: |-
-  #       **NAME**
-  #       SUMMARY
-  #       HIGHLIGHTS
-  #     date_and_location_column: |-
-  #       LOCATION
-  #       DATE
+    #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+    #   single_date: MONTH_ABBREVIATION YEAR
+    #   date_range: START_DATE – END_DATE
+    #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    #   one_line_entry:
+    #     main_column: '**LABEL:** DETAILS'
+    #   education_entry:
+    #     main_column: |-
+    #       **INSTITUTION**, AREA
+    #       SUMMARY
+    #       HIGHLIGHTS
+    #     degree_column: '**DEGREE**'
+    #     date_and_location_column: |-
+    #       LOCATION
+    #       DATE
+    #   normal_entry:
+    #     main_column: |-
+    #       **NAME**
+    #       SUMMARY
+    #       HIGHLIGHTS
+    #     date_and_location_column: |-
+    #       LOCATION
+    #       DATE
     experience_entry:
       main_column: |-
         POSITION, **COMPANY**
