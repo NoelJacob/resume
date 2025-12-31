@@ -167,8 +167,8 @@ design:
   theme: engineeringresumes
   page:
     size: a4
-    top_margin: 0.5in
-    bottom_margin: 0.5in
+    top_margin: 0.7in
+    bottom_margin: 0.7in
     left_margin: 0.7in
     right_margin: 0.7in
     # show_footer: true
