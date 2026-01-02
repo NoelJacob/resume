@@ -52,10 +52,10 @@ cv:
     accomplishments:
       - number: "**Erasmus+ Scholarship** Fully funded exchange at University of Padova, Italy by EU (2024)"
       - number: "**Rajagiri Scholarship for Excellence (RiSE)** Highest fee waiver awarded among all winners (2024)"
-      - number: "**CAT Exam - 91.25 %ile** nationally (95.8% Quants, 96.6% Verbal) (2023)"
-      - number: "**XAT Exam - 90.1 %ile** nationally (97.5% Decision Making) (2024)"
-      - number: "**Master of Computer Applications Entrance - Rank 101** in Kerala State (2024)"
-      # - number: "(Upcoming) **CFA Level-I** Registered for 2026 May exam (2026)"
+      - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
+      - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
+      - number: "**M. Computer Applications State Entrance - Rank 101** (2024)"
+      # - number: "(Upcoming) **CFA Level - I** Registered for 2026 May exam (2026)"
     experience:
       - company: Pangolin Analytics
         position: Co-Founder & CTO
