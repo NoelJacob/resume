@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
-# categories: bank, financ, consult, account, manage, quant, hedge, analyst
+# categories: bank, financ, consult, account, manage, quant, hedge, analyst, invest
 cv:
   name: Noel Jacob
   headline: PGDM (MBA Finance and Analytics) and Programmer
