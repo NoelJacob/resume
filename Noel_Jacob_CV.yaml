@@ -81,7 +81,7 @@ cv:
       - label: Tools
         details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Finance
-        details: Reconciliation, Financial Accounting, Transactional, Fraud analysis
+        details: Reconciliation, Accounting, Financial Accounting, Operational Accounting, Fraud analysis
       - label: Quant
         details: Financial Modeling, Time-series analysis, Statistical analysis
       - label: Tech
