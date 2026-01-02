@@ -1,0 +1,31 @@
+on:
+  push:
+    branches:
+      - "*"
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: .github/workflows/release.yaml
+      - run: pip install "rendercv[full]"
+      - run: for file in *.yaml; do rendercv render "$file"; done
+      - name: Set tag name
+        run: |
+          COMMIT_SHA=$(git rev-parse --short HEAD)
+          COMMIT_MSG=$(echo "${{ github.event.head_commit.message }}" | tr ' ' '_' | tr -d '\n' | tr -d '\r')
+          echo "TAG_NAME=${{ github.ref_name }}-$COMMIT_SHA-$COMMIT_MSG" >> $GITHUB_ENV
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.TAG_NAME }}
+          files: out/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
