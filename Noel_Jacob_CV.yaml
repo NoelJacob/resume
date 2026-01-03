@@ -84,7 +84,7 @@ cv:
       - label: Finance
         details: Reconciliation, Accounting, Project management, Fraud analysis
       - label: Quant
-        details: Financial Modeling, Time-series analysis, Statistical analysis, Data Analytics
+        details: Modeling, Time-series analysis, Statistical analysis, Data Analytics
       - label: Tech
         details: Python, Rust, JavaScript, PyTorch, CatBoost, Llama.cpp, N8N, Flutter, Pandas, SQL
       - label: Infrastructure
