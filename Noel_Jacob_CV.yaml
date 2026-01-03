@@ -334,11 +334,11 @@ settings:
   render_command:
     design:
     locale:
-    typst_path: out/NAME_IN_SNAKE_CASE_CV.typ
-    pdf_path: out/NAME_IN_SNAKE_CASE_CV.pdf
-    markdown_path: out/NAME_IN_SNAKE_CASE_CV.md
-    html_path: out/NAME_IN_SNAKE_CASE_CV.html
-    png_path: out/NAME_IN_SNAKE_CASE_CV.png
+    typst_path: out/NAME_IN_SNAKE_CASE_CV_v2.typ
+    pdf_path: out/NAME_IN_SNAKE_CASE_CV_v2.pdf
+    markdown_path: out/NAME_IN_SNAKE_CASE_CV_v2.md
+    html_path: out/NAME_IN_SNAKE_CASE_CV_v2.html
+    png_path: out/NAME_IN_SNAKE_CASE_CV_v2.png
     dont_generate_markdown: true
     dont_generate_html: true
     dont_generate_typst: false
