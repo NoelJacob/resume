@@ -121,12 +121,12 @@ cv:
         location: "[github](https://github.com/noeljacob/zman)"
         summary: Install and manage different versions of compilers for Zig language (rust, clap lib)
         highlights:
-      - name: Crypto Wallet
+      - name: Blockchain Wallet
         date: 2022-11
         start_date:
         end_date:
         location: "[github](https://github.com/NoelJacob/algorand-desktop)"
-        summary: Crypto wallet for Algorand blockchain, with NFT support. Built for Win, Linux, Mac (rust, javascript, tauri lib)
+        summary: Built blockchain wallet for Algorand chain, with NFT support. Made for Win, Linux, Mac (rust, javascript, tauri lib)
         highlights:
       - name: Algorithmic Trading for Crypto
         date: 2022-02
