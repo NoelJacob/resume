@@ -1,5 +1,5 @@
 diff --git a/Noel_Jacob_CV.yaml b/Noel_Jacob_CV.yaml
-index 55e7d6a..e16f749 100644
+index ea79345..e16f749 100644
 --- a/Noel_Jacob_CV.yaml
 +++ b/Noel_Jacob_CV.yaml
 @@ -86,9 +86,7 @@ cv:
@@ -17,12 +17,12 @@ index 55e7d6a..e16f749 100644
          location:
          summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
          highlights:
--      - name: Covid Dashboard
+-      - name: Covid Predictor
 -        date: 2021-06
 -        start_date:
 -        end_date:
 -        location:
--        summary: Shows AI predictions graph with virus spread for countries. (**redis db, redis AI, react**)
+-        summary: Shows AI predictions on graph of virus spread for countries. (**redis db, redis AI, react**)
 -        highlights:
      professional_certificates:
        - number: "**NISM: Mutual Fund Distributors** Allows to distribute mutual funds to consumers in India (2025)"
