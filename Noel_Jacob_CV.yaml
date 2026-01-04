@@ -126,14 +126,14 @@ cv:
         start_date:
         end_date:
         location: "[github](https://github.com/NoelJacob/algorand-desktop)"
-        summary: Crypto wallet for Algorand blockchain, with NFT support. Built for Win, Linux, Mac platforms (**rust, javascript, tauri lib**)
+        summary: Crypto wallet for Algorand blockchain, with NFT support. Built for Win, Linux, Mac (**rust, javascript, tauri lib**)
         highlights:
       - name: Algotrader for Crypto
         date: 2022-02
         start_date:
         end_date:
         location:
-        summary: Trades multiple crypto pairs by scraping sites for buy sell signals and uses Binance API. (**javascript, nodejs**)
+        summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
         highlights:
       - name: COVID Dashboard
         date: 2021-06
