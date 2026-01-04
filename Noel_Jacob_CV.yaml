@@ -140,7 +140,7 @@ cv:
         start_date:
         end_date:
         location:
-        summary: Shows graph with spread per country with AI spread predictions. (**redis, redis AI, react**)
+        summary: Shows AI predictions graph with virus spread for countries. (**redis, redis AI, react**)
         highlights:
     professional_certificates:
       - number: "**NISM: Mutual Fund Distributors** Allows to distribute mutual funds to consumers in India (2025)"
