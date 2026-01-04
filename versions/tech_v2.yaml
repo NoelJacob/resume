@@ -148,13 +148,13 @@ cv:
       - label: Total
         details: "**52 courses completed on Coursera, edX, etc**"
       - label: Finance (11)
-        details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB (2), LMU Munich (3), etc
+        details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB, LMU Munich, etc
       - label: Machine Learning (21)
-        details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
+        details: Deep Learning, NLP, RL from IBM, Washington and Helsinki universities, etc
       - label: Blockchain (16)
-        details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
+        details: Smart Contracts from INSEAD, Buffalo and Nicosia universities
       - label: Data Science (4)
-        details: Econometrics, Game theory from Johns Hopkins University, IBM, University of Michigan
+        details: Econometrics, Game theory from IBM, Johns Hopkins and Michigan universities
     extracurricular_activities:
       - number: "**Open-source contributor - 230** Github commits in last year"
       - number: "**Best Manager Competition - Finalist (2x)** at SCMS College fest (2025, 2024)"
