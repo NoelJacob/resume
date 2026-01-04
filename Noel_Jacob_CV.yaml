@@ -56,7 +56,7 @@ cv:
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
       - number: "**M. Computer Applications State Entrance - Rank 101** (2024)"
-      - number: "(Upcoming) **CFA Level - I** Registered for 2026 May exam (2026)"
+      - number: "(Upcoming) **CFA Level I** Registered for 2026 May exam (2026)"
     experience:
       - company: Pangolin Analytics
         position: Co-Founder & CTO
@@ -76,13 +76,13 @@ cv:
         location: Remote
         summary:
         highlights:
-          - Measured the impact of Quick Commerce on Kirana stores after taking questionnaire based survey of stores in Ernakulam and Thrissur district
+          - Measured the impact of Quick Commerce on Kirana stores after many semi-structured interview based surveys from Ernakulam and Thrissur district
           - Assimilated the survey data and did a presentation of Quick Commerce impact at different geographies
     skills:
       - label: Tools
         details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Finance
-        details: Reconciliation, Accounting, Securities research, Capital markets
+        details: Accounting, Reconciliation, Securities research, Capital markets
       - label: Quant
         details: Modeling, Time-series analysis, Statistical analysis, Data Analytics
       - label: Tech
@@ -157,8 +157,9 @@ cv:
       - label: Blockchain (16)
         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
     extracurricular_activities:
-      - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
+      - number: "**Open-source contributor - 230** Github commits in last year"
       - number: "**Best Manager Competition - Finalist** at SCMS College fest (2025)"
+      - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
       - number: "**Best Manager Competition - Finalist** at SCMS College fest (2024)"
       - number: "**MindsDB Machine Learning - 2nd** (2022)"
       - number: "**Ton Blockchain Smart Contract - Shared prize** pool money (2022)"
