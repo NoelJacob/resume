@@ -135,16 +135,16 @@ cv:
         location:
         summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
         highlights:
-      # - name: Covid Dashboard
-      #   date: 2021-06
-      #   start_date:
-      #   end_date:
-      #   location:
-      #   summary: Shows AI predictions graph with virus spread for countries. (**redis db, redis AI, react**)
-      #   highlights:
+      - name: Covid Dashboard
+        date: 2021-06
+        start_date:
+        end_date:
+        location:
+        summary: Shows AI predictions graph with virus spread for countries. (**redis db, redis AI, react**)
+        highlights:
     professional_certificates:
       - number: "**NISM: Mutual Fund Distributors** Allows to distribute mutual funds to consumers in India (2025)"
-      - number: "**Alteryx Core** Use Alteryx to create low-code workflows (2025)"
+      - number: "**Alteryx Core** Use Alteryx to create workflows (2025)"
     course_certificates:
       - label: Total
         details: "**52 courses completed on Coursera, edX, etc**"
@@ -153,12 +153,12 @@ cv:
       - label: Machine Learning (21)
         details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
       - label: Data Science (4)
-        details: Statistics, Game theory from Johns Hopkins University, IBM, University of Michigan
+        details: Python libs, Game theory from Johns Hopkins University, IBM, University of Michigan
       - label: Blockchain (16)
         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
     extracurricular_activities:
       - number: "**Open-source contributor - 230** Github commits in last year"
-      - number: "**Best Manager Competition - Finalist** at SCMS College fest (2025)"
+      - number: "**Best Manager Competition - Finalist (2 times)** at SCMS College fest (2025 & 2024)"
       - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
       - number: "**Best Manager Competition - Finalist** at SCMS College fest (2024)"
       - number: "**MindsDB Machine Learning - 2nd** (2022)"

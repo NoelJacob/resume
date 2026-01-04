@@ -1,9 +1,14 @@
 #!/usr/bin/bash
+
+if [ ! -d "versions" ]; then
+    mkdir -p versions
+fi
+
 for patch in *.patch; do
     name="${patch%.patch}"
-    patch ./Noel_Jacob_CV.yaml -i "$patch" -o "$name.yaml"
+    patch ./Noel_Jacob_CV.yaml -i "$patch" -o "versions/$name.yaml"
 done
 
-for file in *.yaml; do
+for file in *.yaml versions/*.yaml; do
     rendercv render "$file"
 done
