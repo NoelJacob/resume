@@ -135,7 +135,7 @@ cv:
         location:
         summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
         highlights:
-      - name: Covid Dashboard
+      - name: Covid Predictions
         date: 2021-06
         start_date:
         end_date:
