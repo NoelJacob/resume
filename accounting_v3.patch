@@ -1,7 +1,16 @@
 diff --git a/Noel_Jacob_CV.yaml b/Noel_Jacob_CV.yaml
-index ea79345..e16f749 100644
+index ea79345..6f4fbd8 100644
 --- a/Noel_Jacob_CV.yaml
 +++ b/Noel_Jacob_CV.yaml
+@@ -2,7 +2,7 @@
+ # categories: bank, financ, consult, account, manage, quant, hedge, analyst, invest, securit
+ cv:
+   name: Noel Jacob
+-  headline: PGDM (MBA Finance and Analytics) and Programmer
++  headline: PGDM (MBA Finance and Analytics)
+   location: Kochi, India
+   email: noeljacob91@gmail.com
+   photo:
 @@ -86,9 +86,7 @@ cv:
        - label: Quant
          details: Modeling, Time-series analysis, Statistical analysis, Data Analytics
