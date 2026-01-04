@@ -56,7 +56,7 @@ cv:
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
       - number: "**M. Computer Applications State Entrance - Rank 101** (2024)"
-      # - number: "(Upcoming) **CFA Level I** Registered for 2026 May exam (2026)"
+      - number: "(Upcoming) **CFA Level I** Registered for 2026 May exam (2026)"
     experience:
       - company: Pangolin Analytics
         position: Co-Founder & CTO
@@ -334,11 +334,11 @@ settings:
   render_command:
     design:
     locale:
-    typst_path: out/NAME_IN_SNAKE_CASE_CV_v2.typ
-    pdf_path: out/NAME_IN_SNAKE_CASE_CV_v2.pdf
-    markdown_path: out/NAME_IN_SNAKE_CASE_CV_v2.md
-    html_path: out/NAME_IN_SNAKE_CASE_CV_v2.html
-    png_path: out/NAME_IN_SNAKE_CASE_CV_v2.png
+    typst_path: out/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: out/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: out/NAME_IN_SNAKE_CASE_CV.md
+    html_path: out/NAME_IN_SNAKE_CASE_CV.html
+    png_path: out/NAME_IN_SNAKE_CASE_CV.png
     dont_generate_markdown: true
     dont_generate_html: true
     dont_generate_typst: false

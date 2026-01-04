@@ -2,7 +2,7 @@
 # categories: bank, financ, consult, account, manage, quant, hedge, analyst, invest, securit
 cv:
   name: Noel Jacob
-  headline: PGDM (MBA Finance and Analytics) and Programmer
+  headline: PGDM (MBA Finance and Analytics)
   location: Kochi, India
   email: noeljacob91@gmail.com
   photo:
@@ -56,7 +56,6 @@ cv:
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
       - number: "**M. Computer Applications State Entrance - Rank 101** (2024)"
-      # - number: "(Upcoming) **CFA Level I** Registered for 2026 May exam (2026)"
     experience:
       - company: Pangolin Analytics
         position: Co-Founder & CTO
@@ -86,9 +85,7 @@ cv:
       - label: Quant
         details: Modeling, Time-series analysis, Statistical analysis, Data Analytics
       - label: Tech
-        details: Python, Rust, JavaScript, PyTorch, CatBoost, Llama.cpp, N8N, Flutter, Pandas, SQL
-      - label: Infrastructure
-        details: Docker, Github actions, AWS, GCP, LLM deployment, AI-agent workflow
+        details: Python, JavaScript, PyTorch, CatBoost, N8N, Pandas, SQL, AI-agent workflow
     publications:
       - title: "(**Upcoming**) Effect of Energy Usage of Public Bitcoin Mining Firms on Price Ratios"
         authors:
@@ -106,20 +103,6 @@ cv:
         end_date:
         location:
         summary: LLM chat app like Perplexity but with your API keys and open-source models (rust, flutter, langchain lib)
-        highlights:
-      - name: Arch linux package maintainer
-        date: 2024-04
-        start_date:
-        end_date:
-        location: "[github](https://github.com/NoelJacob/aur)"
-        summary: Distributes builds of packages like Bun (fastest JS runtime) for Arch users (rust, github actions)
-        highlights:
-      - name: Zig Compiler Manager
-        date: 2024-03
-        start_date:
-        end_date:
-        location: "[github](https://github.com/noeljacob/zman)"
-        summary: Install and manage different versions of compilers for Zig language (rust, clap lib)
         highlights:
       - name: Crypto Wallet
         date: 2022-11
@@ -157,11 +140,9 @@ cv:
       - label: Data Science (4)
         details: Econometrics, Game theory from IBM, Johns Hopkins and Michigan universities
     extracurricular_activities:
-      - number: "**Open-source contributor - 230** Github commits in last year"
       - number: "**Best Manager Competition - Finalist (2x)** at SCMS College fest (2025, 2024)"
       - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
       - number: "**MindsDB Machine Learning - 2nd** (2022)"
-      - number: "**Ton Blockchain Smart contract - Shared prize** pool money (2022)"
       - number: "**Machine Learning Challenge - 1st** at SRM University fest (2020)"
 
 design:

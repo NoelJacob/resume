@@ -17,7 +17,11 @@ jobs:
           cache: 'pip'
           cache-dependency-path: .github/workflows/release.yaml
       - run: pip install "rendercv[full]"
-      - run: for file in *.yaml; do rendercv render "$file"; done
+      - name: Render yaml
+        run: |
+          for file in *.yaml; do
+            rendercv render "$file"
+          done
       - name: Set tag name
         run: |
           COMMIT_SHA=$(git rev-parse --short HEAD)
@@ -26,6 +30,8 @@ jobs:
       - uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.TAG_NAME }}
-          files: out/*
+          files: |
+            out/*
+            versions/out/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

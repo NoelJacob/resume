@@ -4,21 +4,35 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Render",
+            "label": "Variations",
             "type": "shell",
-            "command": "rendercv render -w Noel_Jacob_CV.yaml -nomd -nohtml -nopng",
-            "runOptions": {
-                "runOn": "folderOpen"
-            },
+            "command": "bash ./render",
             "problemMatcher": [],
             "presentation": {
                 "echo": true,
                 "reveal": "never",
                 "focus": false,
-                "panel": "shared",
+                "panel": "dedicated",
                 "showReuseMessage": true,
-                "clear": true
+                "clear": false
+            }
+        },
+        {
+            "label": "Render",
+            "type": "shell",
+            "command": "rendercv render -w ./*.yaml",
+            "problemMatcher": [],
+            "runOptions": {
+                "runOn": "folderOpen"
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "never",
+                "focus": false,
+                "panel": "dedicated",
+                "showReuseMessage": true,
+                "clear": false
             }
         }
-    ]
+    ],
 }
