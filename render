@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+for patch in *.patch; do
+    name="${patch%.patch}"
+    patch ./Noel_Jacob_CV.yaml -i "$patch" -o "$name.yaml"
+done
+
+for file in *.yaml; do
+    rendercv render "$file"
+done

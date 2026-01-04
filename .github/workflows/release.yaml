@@ -17,7 +17,7 @@ jobs:
           cache: 'pip'
           cache-dependency-path: .github/workflows/release.yaml
       - run: pip install "rendercv[full]"
-      - run: for file in *.yaml; do rendercv render "$file"; done
+      - run: bash ./render
       - name: Set tag name
         run: |
           COMMIT_SHA=$(git rev-parse --short HEAD)
