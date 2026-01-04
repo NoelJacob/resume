@@ -331,7 +331,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: "2025-12-30"
+  # current_date: "2025-12-30"
   render_command:
     design:
     locale:
