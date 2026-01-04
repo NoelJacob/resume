@@ -152,10 +152,10 @@ cv:
         details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB (2), LMU Munich (3), etc
       - label: Machine Learning (21)
         details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
-      - label: Data Science (4)
-        details: Econometrics, Game theory from Johns Hopkins University, IBM, University of Michigan
       - label: Blockchain (16)
         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
+      - label: Data Science (4)
+        details: Econometrics, Game theory from Johns Hopkins University, IBM, University of Michigan
     extracurricular_activities:
       - number: "**Open-source contributor - 230** Github commits in last year"
       - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
