@@ -38,7 +38,7 @@ cv:
         summary:
         highlights:
           - Current **Technology Lead** of IEDC, the college startup incubator
-          - Part of organisers for Rajagiri National Business Quiz, India's 2nd largest, and increased participation by 40%
+          - Part of organizers for Rajagiri National Business Quiz, India's 2nd largest, and increased participation by 40%
           - Attended Banglore Tech Fest, representing college, to understand current tech landscape
       - institution: "Mahatma Gandhi University"
         area: "English"
@@ -153,7 +153,7 @@ cv:
       - label: Machine Learning (21)
         details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
       - label: Data Science (4)
-        details: Python libs, Game theory from Johns Hopkins University, IBM, University of Michigan
+        details: Econometrics, Game theory from Johns Hopkins University, IBM, University of Michigan
       - label: Blockchain (16)
         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
     extracurricular_activities:
