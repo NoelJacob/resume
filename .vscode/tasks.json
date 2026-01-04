@@ -20,7 +20,7 @@
         {
             "label": "Render",
             "type": "shell",
-            "command": "rendercv render -w ./Noel_Jacob_CV.yaml",
+            "command": "rendercv render -w ./*.yaml",
             "problemMatcher": [],
             "runOptions": {
                 "runOn": "folderOpen"
