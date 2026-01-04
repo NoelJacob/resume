@@ -105,12 +105,12 @@ cv:
         location:
         summary: LLM chat app like Perplexity but with your API keys and open-source models (rust, flutter, langchain lib)
         highlights:
-      - name: Crypto Wallet
+      - name: Blockchain Wallet
         date: 2022-11
         start_date:
         end_date:
         location: "[github](https://github.com/NoelJacob/algorand-desktop)"
-        summary: Crypto wallet for Algorand blockchain, with NFT support. Built for Win, Linux, Mac (rust, javascript, tauri lib)
+        summary: Built blockchain wallet for Algorand chain, with NFT support. Made for Win, Linux, Mac (rust, javascript, tauri lib)
         highlights:
       - name: Algorithmic Trading for Crypto
         date: 2022-02
