@@ -135,13 +135,13 @@ cv:
         location:
         summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
         highlights:
-      - name: Covid Dashboard
-        date: 2021-06
-        start_date:
-        end_date:
-        location:
-        summary: Shows AI predictions graph with virus spread for countries. (**redis, redis AI, react**)
-        highlights:
+      # - name: Covid Dashboard
+      #   date: 2021-06
+      #   start_date:
+      #   end_date:
+      #   location:
+      #   summary: Shows AI predictions graph with virus spread for countries. (**redis db, redis AI, react**)
+      #   highlights:
     professional_certificates:
       - number: "**NISM: Mutual Fund Distributors** Allows to distribute mutual funds to consumers in India (2025)"
       - number: "**Alteryx Core** Use Alteryx to create low-code workflows (2025)"
