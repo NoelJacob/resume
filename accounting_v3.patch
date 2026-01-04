@@ -1,0 +1,68 @@
+diff --git a/Noel_Jacob_CV.yaml b/Noel_Jacob_CV.yaml
+index d1443e0..f8ee085 100644
+--- a/Noel_Jacob_CV.yaml
++++ b/Noel_Jacob_CV.yaml
+@@ -86,9 +86,9 @@ cv:
+       - label: Quant
+         details: Modeling, Time-series analysis, Statistical analysis, Data Analytics
+       - label: Tech
+-        details: Python, Rust, JavaScript, PyTorch, CatBoost, Llama.cpp, N8N, Flutter, Pandas, SQL
++        details: Python, Rust, PyTorch, CatBoost, Llama.cpp, N8N, Pandas, SQL
+       - label: Infrastructure
+-        details: Docker, Github actions, AWS, GCP, LLM deployment, AI-agent workflow
++        details: Docker, Github actions, AI-agent workflow
+     publications:
+       - title: "(**Upcoming**) Effect of Energy Usage of Public Bitcoin Mining Firms on Price Ratios"
+         authors:
+@@ -135,13 +135,6 @@ cv:
+         location:
+         summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
+         highlights:
+-      - name: Covid Dashboard
+-        date: 2021-06
+-        start_date:
+-        end_date:
+-        location:
+-        summary: Shows AI predictions graph with virus spread for countries. (**redis db, redis AI, react**)
+-        highlights:
+     professional_certificates:
+       - number: "**NISM: Mutual Fund Distributors** Allows to distribute mutual funds to consumers in India (2025)"
+       - number: "**Alteryx Core** Use Alteryx to create workflows (2025)"
+@@ -152,17 +145,15 @@ cv:
+         details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB (2), LMU Munich (3), etc
+       - label: Machine Learning (21)
+         details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
+-      - label: Data Science (4)
+-        details: Econometrics, Game theory from Johns Hopkins University, IBM, University of Michigan
+       - label: Blockchain (16)
+         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
++      - label: Data Science (4)
++        details: Econometrics, Game theory from Johns Hopkins University, IBM, University of Michigan
+     extracurricular_activities:
+-      - number: "**Open-source contributor - 230** Github commits in last year"
+-      - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
+       - number: "**Best Manager Competition - Finalist** at SCMS College fest (2025)"
++      - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
+       - number: "**Best Manager Competition - Finalist** at SCMS College fest (2024)"
+       - number: "**MindsDB Machine Learning - 2nd** (2022)"
+-      - number: "**Ton Blockchain Smart Contract - Shared prize** pool money (2022)"
+       - number: "**Machine Learning Challenge - 1st** at SRM University fest (2020)"
+ 
+ design:
+@@ -335,11 +326,11 @@ settings:
+   render_command:
+     design:
+     locale:
+-    typst_path: out/NAME_IN_SNAKE_CASE_CV.typ
+-    pdf_path: out/NAME_IN_SNAKE_CASE_CV.pdf
+-    markdown_path: out/NAME_IN_SNAKE_CASE_CV.md
+-    html_path: out/NAME_IN_SNAKE_CASE_CV.html
+-    png_path: out/NAME_IN_SNAKE_CASE_CV.png
++    typst_path: out/NAME_IN_SNAKE_CASE_CV_v3.typ
++    pdf_path: out/NAME_IN_SNAKE_CASE_CV_v3.pdf
++    markdown_path: out/NAME_IN_SNAKE_CASE_CV_v3.md
++    html_path: out/NAME_IN_SNAKE_CASE_CV_v3.html
++    png_path: out/NAME_IN_SNAKE_CASE_CV_v3.png
+     dont_generate_markdown: true
+     dont_generate_html: true
+     dont_generate_typst: false
