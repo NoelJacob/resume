@@ -4,20 +4,6 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Variations",
-            "type": "shell",
-            "command": "bash ./render",
-            "problemMatcher": [],
-            "presentation": {
-                "echo": true,
-                "reveal": "never",
-                "focus": false,
-                "panel": "dedicated",
-                "showReuseMessage": true,
-                "clear": false
-            }
-        },
-        {
             "label": "Render",
             "type": "shell",
             "command": "rendercv render -w ./*.yaml",
