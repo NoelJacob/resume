@@ -88,7 +88,7 @@ cv:
       - label: Tech
         details: Python, Rust, JavaScript, PyTorch, CatBoost, Llama.cpp, N8N, Flutter, Pandas, SQL
       - label: Infrastructure
-        details: Docker, Git, DevOps, AWS, GCP, LLM deployment, AI-agent workflow
+        details: Docker, Github actions, AWS, GCP, LLM deployment, AI-agent workflow
     publications:
       - title: "(**Upcoming**) Effect of Energy Usage of Public Bitcoin Mining Firms on Price Ratios"
         authors:
@@ -107,7 +107,7 @@ cv:
         location:
         summary: LLM chat app like Perplexity but with your API keys and open-source models (**rust, flutter, langchain lib**)
         highlights:
-      - name: Arch Linux Package Maintainer
+      - name: Arch linux package maintainer
         date: 2024-04
         start_date:
         end_date:
@@ -126,21 +126,21 @@ cv:
         start_date:
         end_date:
         location: "[github](https://github.com/NoelJacob/algorand-desktop)"
-        summary: Crypto wallet for Algorand blockchain, with NFT support. Built for Win, Linux, Mac platforms (**rust, javascript, tauri lib**)
+        summary: Crypto wallet for Algorand blockchain, with NFT support. Built for Win, Linux, Mac (**rust, javascript, tauri lib**)
         highlights:
       - name: Algotrader for Crypto
         date: 2022-02
         start_date:
         end_date:
         location:
-        summary: Trades multiple crypto pairs by scraping sites for buy sell signals and uses Binance API. (**javascript, nodejs**)
+        summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
         highlights:
-      - name: COVID Dashboard
+      - name: Covid Dashboard
         date: 2021-06
         start_date:
         end_date:
         location:
-        summary: Shows graph with spread per country with AI spread predictions. (**redis, redis AI, react**)
+        summary: Shows AI predictions graph with virus spread for countries. (**redis, redis AI, react**)
         highlights:
     professional_certificates:
       - number: "**NISM: Mutual Fund Distributors** Allows to distribute mutual funds to consumers in India (2025)"
@@ -153,7 +153,7 @@ cv:
       - label: Machine Learning (21)
         details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
       - label: Data Science (4)
-        details: Python libraries from Johns Hopkins University, IBM, University of Michigan
+        details: Statistics, Game theory from Johns Hopkins University, IBM, University of Michigan
       - label: Blockchain (16)
         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
     extracurricular_activities:
@@ -331,7 +331,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: "2025-12-30"
+  # current_date: "2025-12-30"
   render_command:
     design:
     locale:
