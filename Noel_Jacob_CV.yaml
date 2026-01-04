@@ -107,7 +107,7 @@ cv:
         location:
         summary: LLM chat app like Perplexity but with your API keys and open-source models (**rust, flutter, langchain lib**)
         highlights:
-      - name: Arch Linux Package Maintainer
+      - name: Arch linux Package Maintainer
         date: 2024-04
         start_date:
         end_date:
@@ -135,7 +135,7 @@ cv:
         location:
         summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (**javascript, nodejs**)
         highlights:
-      - name: COVID Dashboard
+      - name: Covid Dashboard
         date: 2021-06
         start_date:
         end_date:
