@@ -152,8 +152,8 @@ cv:
         details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB (2), LMU Munich (3), etc
       - label: Machine Learning (21)
         details: Deep Learning, NLP, RL from IBM (2), Washington University, Helsinki University, etc
-      - label: Data Science (4)
-        details: Python libraries from Johns Hopkins University, IBM, University of Michigan
+      # - label: Data Science (4)
+      #   details: Python libraries from Johns Hopkins University, IBM, University of Michigan
       - label: Blockchain (16)
         details: Smart Contracts from INSEAD (11), University at Buffalo (5), University of Nicosia
     extracurricular_activities:
