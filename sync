@@ -1,0 +1,11 @@
+#!/bin/bash
+
+current=$(git branch --show-current)
+branches=$(git branch --list | grep -v master | sed 's/*//g' | sed 's/^[[:space:]]*//')
+
+for branch in $branches; do
+    git checkout "$branch"
+    git merge master
+done
+
+git checkout "$current"
