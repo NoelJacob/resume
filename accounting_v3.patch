@@ -1,5 +1,5 @@
 diff --git a/Noel_Jacob_CV.yaml b/Noel_Jacob_CV.yaml
-index 1b56e19..e16f749 100644
+index 55e7d6a..e16f749 100644
 --- a/Noel_Jacob_CV.yaml
 +++ b/Noel_Jacob_CV.yaml
 @@ -86,9 +86,7 @@ cv:
@@ -32,9 +32,8 @@ index 1b56e19..e16f749 100644
          details: Econometrics, Game theory from Johns Hopkins University, IBM, University of Michigan
      extracurricular_activities:
 -      - number: "**Open-source contributor - 230** Github commits in last year"
--      - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
        - number: "**Best Manager Competition - Finalist (2x)** at SCMS College fest (2025, 2024)"
-+      - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
+       - number: "**Agentic AI Challenge - 1st** at Rajagiri Business School (2025)"
        - number: "**MindsDB Machine Learning - 2nd** (2022)"
 -      - number: "**Ton Blockchain Smart Contract - Shared prize** pool money (2022)"
        - number: "**Machine Learning Challenge - 1st** at SRM University fest (2020)"
