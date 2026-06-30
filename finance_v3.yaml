@@ -16,11 +16,11 @@ cv:
   custom_connections:
   sections:
     about:
-      - Hardworking **PGDM (MBA) student** with a passion for Finance, Accounting and Statistics subjects.  I focus on using computational methods to solve real-world financial challenges. Also a self-taught **Machine Learning expert** who can adapt to industry requirements. **I learn fast, think hard, and deliver results.**
+      - Hardworking **PGDM (MBA) student** with a passion for Finance, Accounting and Statistics subjects. I focus on using computational methods to solve real-world financial challenges. Also a self-taught **Machine Learning expert** who can adapt to industry requirements. **I learn fast, think hard, and deliver results.**
     education:
       - institution: University of Padova
-        area: Computational Finance (ML), Business Management
-        degree: Exchange Semester
+        area: Computational Finance (ML)
+        degree: Exchange Sem
         date:
         start_date: 2025-02
         end_date: 2025-07
@@ -51,7 +51,7 @@ cv:
         highlights:
           - Did final thesis on LLMs and English language
     accomplishments:
-      - number: "**Erasmus Scholarship** Fully funded exchange at University of Padova, Italy (2024)"
+      - number: "**Erasmus+ Scholarship** Fully funded by Europian Union in Italy (2024)"
       - number: "**Rajagiri Scholarship for Excellence (RiSE)** Highest fee waiver awarded among all winners (2024)"
       - number: "**Kerala State Entrance - Masters in Computer - 101 Rank** (2024)"
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
