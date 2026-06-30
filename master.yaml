@@ -38,7 +38,7 @@ cv:
         summary:
         highlights:
           - Current **Technology Lead** of IEDC, the college startup incubator
-          - Part of organizers for National Business Quiz, India's 2nd largest, and increased participation by 40%
+          - Organizing committee for National Business Quiz, India's 2nd largest, and increased participation by 30%
           - Attended Banglore Tech Fest, representing college
       - institution: "Mahatma Gandhi University"
         area: "English"
@@ -89,7 +89,7 @@ cv:
       - label: Infrastructure
         details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow
     publications:
-      - title: "(**Upcoming**) Effect of Energy Usage of Public Bitcoin Mining Firms on Price Ratios"
+      - title: "(**Upcoming**) Effect of energy consumption of Bitcoin mining firms on price ratios"
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
@@ -99,6 +99,13 @@ cv:
         journal:
         date: 2026
     projects:
+      - name: Paper presentation at RMIC Conference '26
+        date: 2026-02
+        start_date:
+        end_date:
+        location:
+        summary: Presented my WIP paper and received praise from jury for innovative methodology
+        highlights:
       - name: Delulu AI
         date: 2024-09
         start_date:
