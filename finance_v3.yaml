@@ -76,7 +76,7 @@ cv:
         location: Remote
         summary:
         highlights:
-          - Studied the impact of quick commerce on Kirana stores after surveys from 2 district and did a presentation
+          - Studied the impact of quick commerce on Kirana stores after surveys from 2 districts and presented it
     skills:
       - label: Tools
         details: Excel (advanced), Alteryx, Mathematica, SPSS, Stata
@@ -122,8 +122,8 @@ cv:
       - number: "**NISM: Mutual Fund Distributors** Allows to distribute MFs in India (2025)"
       - number: "**Alteryx Core** (2025)"
     course_certificates:
-      - label: Total
-        details: "**52 courses** from Coursera, edX, etc"
+      - label: 56 Courses
+        details: Coursera, edX, etc
       - label: Finance (11)
         details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB, LMU munich, etc
       - label: Machine Learning (21)
