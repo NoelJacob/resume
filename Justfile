@@ -1,4 +1,4 @@
-render:
+build:
 	#!/usr/bin/env bash
 	for file in *.yaml; do
 		rendercv render "$file"
