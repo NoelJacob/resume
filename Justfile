@@ -1,3 +1,6 @@
+watch:
+	rendercv render -w ./master.yaml
+
 build:
 	#!/usr/bin/env bash
 	for file in *.yaml; do
@@ -5,5 +8,4 @@ build:
 	done
 
 diff:
-	#!/usr/bin/env bash
 	meld ./developer_v2.yaml ./master.yaml ./finance_v3.yaml
