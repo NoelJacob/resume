@@ -37,7 +37,7 @@ cv:
         location: Kochi, India
         summary:
         highlights:
-          - Current **Technology Lead** of IEDC, the college startup incubator
+          - "**Technology Lead** of IEDC, the college startup incubator"
           - Organizing committee for National Business Quiz, India's 2nd largest, and increased participation by 30%
           - Attended Bangalore tech fest, representing college
       - institution: "Mahatma Gandhi University"
@@ -91,7 +91,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: We created a method to give synthetic score for energy consumption by ingesting regulatory filings using LLM and adding other metrics. Did a regression analysis of score and ROA.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest SEC filings via LLM and then adds financial metrics to get score for Bitcoin mining firms. Ran Stata panel regression of score against Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:
@@ -104,27 +104,48 @@ cv:
         location:
         summary: Presented my WIP paper and received praise from jury for innovative methodology
         highlights:
-      - name: Toy Stock exchange
+      - name: FIX/WebSocket Stock exchange
         date: 2026-05
         start_date:
         end_date:
-        location: "[github url](https://github.com/NoelJacob/exchange)"
-        summary: Uses FIX 4.2 and WebSocket protocol to match incoming limit and market orders (rust)
+        location: "[github: noeljacob/exchange](https://github.com/noeljacob/exchange)"
+        summary: Created an exchange with FIX 4.2 and custom WebSocket protocols matching incoming limit/market orders on time priority fills. Handles 10,000+ orders per second (rust)
         highlights:
+      # - name: Open LLM chat
+      #   date: 2024-09
+      #   start_date:
+      #   end_date:
+      #   location:
+      #   summary: Like Perplexity but local models and custom APIs (rust, flutter, langchain)
+      #   highlights:
+      # - name: Arch linux package maintainer
+      #   date: 2024-04
+      #   start_date:
+      #   end_date:
+      #   location: "[github: noeljacob/aur](https://github.com/noeljacob/aur)"
+      #   summary: Distributes builds of packages like Bun for Arch users (rust, github actions)
+      #   highlights:
+      # - name: Zig compiler manager
+      #   date: 2024-03
+      #   start_date:
+      #   end_date:
+      #   location: "[github: noeljacob/zman](https://github.com/noeljacob/zman)"
+      #   summary: Install and manage different versions of compilers for Zig language (rust)
+      #   highlights:
       - name: Blockchain wallet
         date: 2022-11
         start_date:
         end_date:
-        location: "[github url](https://github.com/NoelJacob/algorand-desktop)"
-        summary: Blockchain wallet for Algorand chain. Supports NFTs. Built for Win, Linux, Mac (rust, javascript)
+        location: "[github: noeljacob/algorand](https://github.com/noeljacob/algorand-desktop)"
+        summary: Wallet for Algorand chain. Supports NFTs. Built for Win, Linux, Mac (rust, javascript)
         highlights:
-      - name: Algorithmic trader crypto
-        date: 2022-02
-        start_date:
-        end_date:
-        location:
-        summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (javascript, nodejs)
-        highlights:
+      # - name: Algorithmic trader
+      #   date: 2022-02
+      #   start_date:
+      #   end_date:
+      #   location:
+      #   summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (javascript, nodejs)
+      #   highlights:
       - name: Covid predictor
         date: 2021-06
         start_date:
@@ -133,23 +154,25 @@ cv:
         summary: Shows AI predictions on graph of virus spread for countries. (redis db, redis AI, react)
         highlights:
     professional_certificates:
-      - number: "**NISM: Mutual Fund Distributors** Allows to distribute MFs in India (2025)"
+      - number: "**NISM: Mutual Fund Distributors -** allows to distribute Mutual Funds in India (2025)"
       - number: "**Alteryx Core** (2025)"
     course_certificates:
-      - label: 56 Courses
+      - label: 56 courses completed in total
         details: Coursera, edX, etc
       - label: Finance (11)
-        details: Risk Management, Global Markets, Fraud Analysis from KPMG, ISB, LMU munich, etc
+        details: Risk management, Global markets, Fraud analysis from Kpmg, ISB, LMU munich, etc
       - label: ML (21)
         details: Deep learning, NLP, RL from IBM, Washington and Helsinki universities, etc
       - label: Blockchain (16)
-        details: Smart contracts from INSEAD, Buffalo and Nicosia universities
+        details: Smart contracts from Insead, Buffalo and Nicosia universities
       - label: Data Science (4)
-        details: Econometrics, Game theory from IBM, Johns Hopkins and Michigan universities
+        details: Econometrics, Game theory from IBM, Johns hopkins and Michigan universities
     extracurricular_activities:
+      # - number: "**Open-source contributor - 230** Github commits previous year with 100+ total stars received"
       - number: "**Best manager competition - Finalist (3x)** at SCMS College fest (2025, 2024) and St. Alberts fest (2025)"
       - number: "**Agentic AI challenge - 1st** at Rajagiri Business School (2025)"
       - number: "**MindsDB machine learning - 2nd** (2022)"
+      # - number: "**Ton blockchain smart contract - Shared prize** (2022)"
       - number: "**Machine learning challenge - 1st** at SRM University fest (2020)"
 
 design:
