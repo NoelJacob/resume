@@ -79,7 +79,7 @@ cv:
           - Studied the impact of quick commerce on Kirana stores after surveys from 2 districts and presented my analysis
     skills:
       - label: Tools
-        details: Excel (advanced), Alteryx, Mathematica, SPSS, Stata
+        details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Tech
         details: Python, Rust, JavaScript, PyTorch, CatBoost, Llama.cpp, N8N, Flutter, Pandas, SQL
       - label: Infrastructure
