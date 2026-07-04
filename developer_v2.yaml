@@ -93,7 +93,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest SEC filings via LLM and then adds financial metrics to get score for Bitcoin mining firms. Ran Stata panel regression of score against Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest SEC filings via Gemini (Vertex AI) and then adds financial metrics to get score for Bitcoin mining firms. Ran Stata panel regression of score against Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:
@@ -106,20 +106,20 @@ cv:
         location:
         summary: Presented my WIP paper and received praise from jury for innovative methodology
         highlights:
-      - name: FIX/WebSocket Stock exchange
+      - name: Trading exchange implementation
         date: 2026-05
         start_date:
         end_date:
         location: "[github: noeljacob/exchange](https://github.com/noeljacob/exchange)"
-        summary: Created an exchange with FIX 4.2 and custom WebSocket protocols matching incoming limit/market orders on time priority fills. Handles 10,000+ orders per second (rust)
+        summary: Created a stock exchange binary supporting **FIX 4.2** and WebSocket protocol, matching incoming limit and market orders on time priority fills at 10,000+ transactions per second (rust)
         highlights:
-      # - name: Open LLM chat
-      #   date: 2024-09
-      #   start_date:
-      #   end_date:
-      #   location:
-      #   summary: Like Perplexity but local models and custom APIs (rust, flutter, langchain)
-      #   highlights:
+      - name: Local LLM search
+        date: 2024-09
+        start_date:
+        end_date:
+        location:
+        summary: Chat app like Perplexity with web search tool with local Llama.cpp models (rust, flutter, langchain)
+        highlights:
       - name: Arch linux package maintainer
         date: 2024-04
         start_date:
@@ -146,15 +146,15 @@ cv:
       #   start_date:
       #   end_date:
       #   location:
-      #   summary: Trades multiple crypto pairs by scraping for buy sell signals and uses Binance API. (javascript, nodejs)
+      #   summary: Trades multiple crypto pairs using Binance API after scraping online for buy sell signals for symbols. (javascript, nodejs)
       #   highlights:
-      - name: Covid predictor
-        date: 2021-06
-        start_date:
-        end_date:
-        location:
-        summary: Shows AI predictions on graph of virus spread for countries. (redis db, redis AI, react)
-        highlights:
+      # - name: Covid predictor
+      #   date: 2021-06
+      #   start_date:
+      #   end_date:
+      #   location:
+      #   summary: Shows AI predictions on graph of virus spread for countries. (redis db, redis AI, react)
+      #   highlights:
     professional_certificates:
       # - number: "**NISM: Mutual Fund Distributors -** allows to distribute Mutual Funds in India (2025)"
       - number: "**Alteryx Core** (2025)"
