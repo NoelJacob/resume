@@ -111,7 +111,7 @@ cv:
         start_date:
         end_date:
         location: "[github: noeljacob/exchange](https://github.com/noeljacob/exchange)"
-        summary: Created a stock exchange binary supporting **FIX 4.2** and WebSocket protocol, matching incoming limit and market orders on time priority fills at 10,000+ transactions per second (rust)
+        summary: Built a stock exchange that receives and matches incoming limit and market orders from traders on time priority fills, supporting **FIX 4.2** and WebSocket protocols, processing 10,000+ transactions per second (rust)
         highlights:
       - name: Local LLM search
         date: 2024-09
