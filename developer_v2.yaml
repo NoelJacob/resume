@@ -93,7 +93,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest SEC filings via Gemini (Vertex AI) and then adds financial metrics to get score for Bitcoin mining firms. Ran Stata panel regression of score against Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest SEC filings via LLM and then adds financial metrics to get score for Bitcoin mining firms. Ran Stata panel regression of score against Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:
