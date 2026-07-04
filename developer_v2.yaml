@@ -106,7 +106,7 @@ cv:
         location:
         summary: Presented my WIP paper and received praise from jury for innovative methodology
         highlights:
-      - name: Trading exchange implementation
+      - name: Stock exchange implementation
         date: 2026-05
         start_date:
         end_date:
