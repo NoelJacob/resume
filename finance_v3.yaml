@@ -16,7 +16,7 @@ cv:
   custom_connections:
   sections:
     about:
-      - Hardworking **PGDM (MBA) student** with a passion for Finance, Accounting and Statistics subjects. I focus on using computational methods to solve real-world financial challenges. Also a self-taught **programming expert** who can adapt to latest industry requirements. **I learn fast, think hard, and deliver results.**
+      - Hardworking **PGDM (MBA) graduate** with a passion for Finance and Statistics subjects. Self-taught **systems programmer** and loves teaching myself new fields. **I learn fast, think hard, and deliver results.**
     education:
       - institution: University of Padova
         area: Computational Finance
@@ -27,7 +27,7 @@ cv:
         location: Padova, Italy
         summary:
         highlights:
-          - Attended various math and finance workshops by industry leaders
+          - Attended extra math and finance workshops by industry leaders
       - institution: Rajagiri Business School
         area: Finance and Analytics
         degree: PGDM
@@ -39,35 +39,35 @@ cv:
         highlights:
           - "**Technology Lead** of IEDC, the college startup incubator"
           - Organizing committee for National Business Quiz, India's 2nd largest, and increased participation by 30%
-          - Attended Bangalore tech fest, representing college
+          # - Attended Bangalore tech fest, representing college
       - institution: "Mahatma Gandhi University"
         area: "English"
         degree: "BA"
         date:
         start_date: "2020-07"
         end_date: "2023-03"
-        location:
+        location: Kottayam, India
+        summary:
+        highlights:
+          # - Did final thesis on LLMs and English language
+      - institution: "SRM University"
+        area: "Mechatronics"
+        degree: "B.Tech"
+        date:
+        start_date: "2019-07"
+        end_date: "2020-03"
+        location: Chennai, India
         summary:
         highlights:
           # - Did final thesis on LLMs and English language
     accomplishments:
       - number: "**Erasmus+ Scholarship** Fully funded by European Union in Italy (2024)"
-      - number: "**Rajagiri Scholarship for Excellence (RiSE)** Highest fee waiver awarded among all winners (2024)"
-      - number: "**Kerala State Entrance - Masters in Computer - 101 Rank** (2024)"
+      - number: "**Rajagiri Scholarship for Excellence** Highest amount awarded among winners (2024)"
+      - number: "**Masters in Computer - Kerala state entrance - 101 Rank** (2024)"
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
       # - number: "(Upcoming) **CFA Level I** Registered for 2026 May exam (2026)"
     experience:
-#      - company: Pangolin Analytics
-#        position: Co-Founder & CTO
-#        date:
-#        start_date: 2025-11
-#        end_date: present
-#        location: Remote
-#        summary:
-#        highlights:
-#          - Bootstrapped a consulting company to gain experience solving real world problems
-#          - Co-founders from Oxford University and Glasgow University
       - company: Grant Thornton
         position: Live Project
         date:
@@ -76,16 +76,25 @@ cv:
         location: Remote
         summary:
         highlights:
-          - Studied the impact of quick commerce on Kirana stores after surveys from 2 districts and presented my analysis
+          - Studied the impact of quick commerce on Kirana stores, after surveys from 2 districts, and presented my analysis
+      - company: Pangolin Analytics
+        position: Co-Founder (startup)
+        date:
+        start_date: 2025-11
+        end_date: 2026-03
+        location: Remote
+        summary:
+        highlights:
+          - Started an AI consulting firm, along with founders from Oxford and Glasgow universities
     skills:
-      - label: Tools
-        details: Excel, Alteryx, Mathematica, SPSS, Stata
+      # - label: Tools
+      #   details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Finance
-        details: Accounting, Reconciliation, Securities research, Capital markets
+        details: Excel, Accounting, Reconciliation, Securities research, Capital markets
       - label: Quant
-        details: Modeling, Time-series analysis, Statistical analysis, Data Analytics
+        details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
-        details: Python, JavaScript, PyTorch, CatBoost, N8N, Pandas, SQL, AI-agent workflow
+        details: Python, JavaScript, PyTorch, CatBoost, n8n, AWS, Pandas, SQL, AI-agent workflow
     publications:
       - title: "(**Upcoming**) Effect of energy consumption of Bitcoin mining firms on price ratios"
         authors:
@@ -97,12 +106,12 @@ cv:
         journal:
         date: 2026
     projects:
-      - name: Paper presentation at RMIC Conference '26
+      - name: Paper Presentation at RMIC Conference '26
         date: 2026-02
         start_date:
         end_date:
         location:
-        summary: Presented my WIP paper and received praise from jury for innovative methodology
+        summary:
         highlights:
       - name: Stock exchange implementation
         date: 2026-05
@@ -111,12 +120,12 @@ cv:
         location: "[github: noeljacob/exchange](https://github.com/noeljacob/exchange)"
         summary: Built a stock exchange that receives and matches incoming limit and market orders from traders on time priority fills, supporting **FIX 4.2** and WebSocket protocols, processing 10,000+ transactions per second (rust)
         highlights:
-      # - name: Local LLM search
+      # - name: Local LLM chat
       #   date: 2024-09
       #   start_date:
       #   end_date:
       #   location:
-      #   summary: Chat app like Perplexity with web search tool with local Llama.cpp models (rust, flutter, langchain)
+      #   summary: Chat app like Perplexity with web search tool and RAG with local GGUF models (rust, flutter, langchain)
       #   highlights:
       # - name: Arch linux package maintainer
       #   date: 2024-04
@@ -168,7 +177,7 @@ cv:
       - label: Data Science (4)
         details: Econometrics, Game theory from IBM, Johns hopkins and Michigan universities
     extracurricular_activities:
-      # - number: "**Open-source contributor - 230** Github commits previous year with 100+ total stars received"
+      # - number: "**Open-source contributor - 230 Github commits** previous year with **100+ total stars** received"
       - number: "**Best manager competition - Finalist (3x)** at SCMS College fest (2025, 2024) and St. Alberts fest (2025)"
       - number: "**Agentic AI challenge - 1st** at Rajagiri Business School (2025)"
       - number: "**MindsDB machine learning - 2nd** (2022)"
