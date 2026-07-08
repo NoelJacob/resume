@@ -27,7 +27,7 @@ cv:
         location: Padova, Italy
         summary:
         highlights:
-          - Attended extra math and finance workshops by industry leaders
+          - Attended various extra math and finance workshops by industry leaders
       - institution: Rajagiri Business School
         area: Finance and Analytics
         degree: PGDM
@@ -66,7 +66,7 @@ cv:
       - number: "**Masters in Computer - Kerala state entrance - 101 Rank** (2024)"
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
-      # - number: "(Upcoming) **CFA Level I** Registered for 2026 May exam (2026)"
+      # - number: "Preparing for **CFA Level I**"
     experience:
       - company: Grant Thornton
         position: Live Project
@@ -102,7 +102,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest SEC filings via LLM and then adds financial metrics to get score for Bitcoin mining firms. Ran Stata panel regression of score against Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest filings from Rifinitiv via LLM then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:
@@ -113,14 +113,14 @@ cv:
         start_date:
         end_date:
         location:
-        summary:
+        summary: Received outstanding comments from jury after explaining my WIP paper
         highlights:
-      - name: Stock exchange implementation
+      - name: Built stock exchange
         date: 2026-05
         start_date:
         end_date:
         location: "[github: noeljacob/exchange](https://github.com/noeljacob/exchange)"
-        summary: Built a stock exchange that receives and matches incoming limit and market orders from traders on time priority fills, supporting **FIX 4.2** and WebSocket protocols, processing 10,000+ transactions per second (rust)
+        summary: Built an exchange that receives and matches incoming limit and market orders from traders on time priority fills, supporting **FIX 4.2** and WebSocket protocols, processing 10,000+ transactions per second (rust)
         highlights:
       - name: Local LLM chat
         date: 2024-09
@@ -136,7 +136,7 @@ cv:
       #   location: "[github: noeljacob/aur](https://github.com/noeljacob/aur)"
       #   summary: Distributes builds of packages like Bun for Arch users (rust, github actions)
       #   highlights:
-      - name: Zig compiler manager
+      - name: Zig lang compiler manager
         date: 2024-03
         start_date:
         end_date:
@@ -165,7 +165,7 @@ cv:
       #   summary: Shows AI predictions on graph of virus spread for countries. (redis db, redis AI, react)
       #   highlights:
     professional_certificates:
-      - number: "**NISM: Mutual Fund Distributors -** allows to distribute Mutual Funds in India (2025)"
+      - number: "**NISM: Mutual Fund Distributors -** allows to legally distribute Mutual Funds in India (2025)"
       - number: "**Alteryx Core** (2025)"
     course_certificates:
       - label: 56 courses completed in total
@@ -179,11 +179,11 @@ cv:
       - label: Data Science (4)
         details: Econometrics, Game theory from IBM, Johns hopkins and Michigan universities
     extracurricular_activities:
-      - number: "**Open-source contributor - 230 Github commits** previous year with **100+ total stars** received"
-      - number: "**Best manager competition - Finalist (3x)** at SCMS College fest (2025, 2024) and St. Alberts fest (2025)"
+      - number: "**Open-source - 230 Github commits** previous year with **100+ total stars** received"
       - number: "**Agentic AI challenge - 1st** at Rajagiri Business School (2025)"
+      - number: "**Best manager competition - Finalist (3x)** at SCMS College fest (2025, 2024) and St. Alberts fest (2025)"
       - number: "**MindsDB machine learning - 2nd** (2022)"
-      - number: "**Ton blockchain smart contract - Shared prize** (2022)"
+      - number: "**TON blockchain smart contract - Shared prize** (2022)"
       - number: "**Machine learning challenge - 1st** at SRM University fest (2020)"
 
 design:
