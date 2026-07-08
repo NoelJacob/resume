@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
-# categories: bank, financ, consult, account, manage, quant, hedge, analyst, invest, securit
+# categories: bank, financ, consult, account, manage, quant, hedge, analyst, invest, securit, research
 cv:
   name: Noel Jacob
   headline: PGDM (Finance and Analytics), Programmer
@@ -20,7 +20,7 @@ cv:
     education:
       - institution: University of Padova
         area: Computational Finance
-        degree: Sem Exchange
+        degree: Semester Exchange
         date:
         start_date: 2025-02
         end_date: 2025-07
@@ -77,15 +77,15 @@ cv:
         summary:
         highlights:
           - Studied the impact of quick commerce on Kirana stores, after surveys from 2 districts, and presented my analysis
-      - company: Pangolin Analytics
-        position: Co-Founder (startup)
-        date:
-        start_date: 2025-11
-        end_date: 2026-03
-        location: Remote
-        summary:
-        highlights:
-          - Started an AI consulting firm, along with founders from Oxford and Glasgow universities
+      # - company: Pangolin Analytics
+      #   position: Co-Founder (startup)
+      #   date:
+      #   start_date: 2025-11
+      #   end_date: 2026-03
+      #   location: Remote
+      #   summary:
+      #   highlights:
+      #     - Started an AI consulting firm, along with founders from Oxford and Glasgow universities
     skills:
       # - label: Tools
       #   details: Excel, Alteryx, Mathematica, SPSS, Stata
@@ -94,7 +94,7 @@ cv:
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
-        details: Python, Rust, JavaScript, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL
+        details: Python, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL
       - label: Infrastructure
         details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow
     publications:
