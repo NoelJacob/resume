@@ -90,7 +90,7 @@ cv:
       # - label: Tools
       #   details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Finance
-        details: Excel, Accounting, Reconciliation, Securities research, Capital markets
+        details: Excel, Accounting, Reconciliation, Securities research, Capital markets, Root cause analysis
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
