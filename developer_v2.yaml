@@ -90,7 +90,7 @@ cv:
       # - label: Tools
       #   details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Tech
-        details: Python, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL
+        details: Python, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, Vector DB
       - label: Infrastructure
         details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow
       - label: Finance
@@ -102,7 +102,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: Developed a method to generate a synthetic Energy Consumption Score for public firms. We ingest filings from Rifinitiv via LLM then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for firms. We ingest 10k, etc filings via Vertex AI then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:
