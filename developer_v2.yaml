@@ -92,7 +92,7 @@ cv:
       - label: Tech
         details: Python, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, Vector DB
       - label: Infrastructure
-        details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow
+        details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face
       - label: Finance
         details: Excel, Accounting, Reconciliation, Securities research, Capital markets, Root cause analysis
       - label: Quant
@@ -127,7 +127,7 @@ cv:
         start_date:
         end_date:
         location:
-        summary: Chat app like Perplexity with web search tool and RAG with local GGUF models (rust, flutter, langchain)
+        summary: Chat app like Perplexity with web search tool and RAG with local GGUF models on Huggingface (rust, flutter, langchain)
         highlights:
       - name: Arch linux package maintainer
         date: 2024-04

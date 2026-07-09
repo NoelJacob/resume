@@ -96,7 +96,7 @@ cv:
       - label: Tech
         details: Python, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, Vector DB
       - label: Infrastructure
-        details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow
+        details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face
     publications:
       - title: "(**Upcoming**) Effect of energy consumption of Bitcoin mining firms on price ratios"
         authors:
