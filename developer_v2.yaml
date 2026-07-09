@@ -90,7 +90,7 @@ cv:
       # - label: Tools
       #   details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Tech
-        details: Python, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, Vector DB
+        details: Python, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, R, Vector DB
       - label: Infrastructure
         details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face
       - label: Finance
@@ -155,7 +155,7 @@ cv:
       #   start_date:
       #   end_date:
       #   location:
-      #   summary: Trades multiple crypto pairs using Binance API after scraping online for buy sell signals for symbols. (javascript, nodejs)
+      #   summary: Trades multiple crypto pairs using Binance API after scraping for buy sell signals. (javascript, nodejs)
       #   highlights:
       # - name: Covid predictor
       #   date: 2021-06

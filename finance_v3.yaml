@@ -94,7 +94,7 @@ cv:
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
-        details: Python, Nodejs, PyTorch, CatBoost, n8n, AWS, Pandas, SQL, AI-agent workflow
+        details: Python, Nodejs, PyTorch, CatBoost, n8n, AWS, Pandas, R, SQL, AI-agent workflow
     publications:
       - title: "(**Upcoming**) Effect of energy consumption of Bitcoin mining firms on price ratios"
         authors:
@@ -153,7 +153,7 @@ cv:
         start_date:
         end_date:
         location:
-        summary: Trades multiple crypto pairs using Binance API after scraping online for buy sell signals for symbols. (javascript, nodejs)
+        summary: Trades multiple crypto pairs using Binance API after scraping for buy sell signals. (javascript, nodejs)
         highlights:
       # - name: Covid predictor
       #   date: 2021-06
