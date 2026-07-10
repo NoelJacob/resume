@@ -66,7 +66,7 @@ cv:
       - number: "**Masters in Computer - Kerala state entrance - 101 Rank** (2024)"
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
-      # - number: "Preparing for **CFA Level I**"
+      - number: "Preparing for **CFA Level I**"
     experience:
       - company: Grant Thornton
         position: Internship
