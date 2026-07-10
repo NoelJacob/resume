@@ -150,13 +150,13 @@ cv:
         location: "[github: noeljacob/algorand](https://github.com/noeljacob/algorand-desktop)"
         summary: Wallet for Algorand chain. Supports NFTs. Built for Win, Linux, Mac (rust, javascript)
         highlights:
-      - name: Algorithmic trader
-        date: 2022-02
-        start_date:
-        end_date:
-        location:
-        summary: Trades multiple crypto pairs using Binance API after scraping for buy sell signals. (javascript, nodejs)
-        highlights:
+      # - name: Algorithmic trader
+      #   date: 2022-02
+      #   start_date:
+      #   end_date:
+      #   location:
+      #   summary: Trades multiple crypto pairs using Binance API after scraping for buy sell signals. (javascript, nodejs)
+      #   highlights:
       # - name: Covid predictor
       #   date: 2021-06
       #   start_date:
