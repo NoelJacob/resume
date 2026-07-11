@@ -50,16 +50,15 @@ cv:
         summary:
         highlights:
           # - Did final thesis on LLMs and English language
-      - institution: "SRM University"
-        area: "Mechatronics"
-        degree: "B.Tech"
-        date:
-        start_date: "2019-07"
-        end_date: "2020-03"
-        location: Chennai, India
-        summary:
-        highlights:
-          # - Did final thesis on LLMs and English language
+      # - institution: "SRM University"
+      #   area: "Mechatronics"
+      #   degree: "B.Tech"
+      #   date:
+      #   start_date: "2019-07"
+      #   end_date: "2020-03"
+      #   location: Chennai, India
+      #   summary:
+      #   highlights:
     accomplishments:
       - number: "**Masters in Computer - Kerala state entrance - 101 Rank** (2024)"
       - number: "**Erasmus+ Scholarship** Fully funded by European Union in Italy (2024)"
