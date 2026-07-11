@@ -69,7 +69,7 @@ cv:
       - number: "Preparing for **CFA Level I**"
     experience:
       - company: Grant Thornton
-        position: Internship
+        position: Live Project
         date:
         start_date: 2025-09
         end_date: 2025-10
@@ -94,7 +94,7 @@ cv:
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
-        details: Python, R, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, R, Vector DB
+        details: Python, R, Rust, Nodejs, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, Vector DB
       - label: Infrastructure
         details: Docker, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face
     publications:
