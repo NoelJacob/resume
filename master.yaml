@@ -101,7 +101,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: Developed a method to generate a synthetic Energy Consumption Score for firms. We ingest 10k, etc filings from Rifinitiv via LLM then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after robustness checks and outlier corrections. This shows energy consumption vs mining profitability.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for firms. We ingest 10k, 12k, etc filings from Rifinitiv via LLM then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, with robustness checks and outlier corrections. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:
