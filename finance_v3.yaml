@@ -50,17 +50,17 @@ cv:
         summary:
         highlights:
           # - Did final thesis on LLMs and English language
-      - institution: "SRM University"
-        area: "Mechatronics"
-        degree: "B.Tech"
-        date:
-        start_date: "2019-07"
-        end_date: "2020-03"
-        location: Chennai, India
-        summary:
-        highlights:
+      # - institution: "SRM University"
+      #   area: "Mechatronics"
+      #   degree: "B.Tech"
+      #   date:
+      #   start_date: "2019-07"
+      #   end_date: "2020-03"
+      #   location: Chennai, India
+      #   summary:
+      #   highlights:
     accomplishments:
-      - number: "**Erasmus+ Scholarship** Fully funded by European Union in Italy (2024)"
+      - number: "**Erasmus+ Scholarship** Fully funded by **European Union in Italy** (2024)"
       - number: "**Rajagiri Scholarship for Excellence** Highest amount awarded among winners (2024)"
       - number: "**Masters in Computer - Kerala state entrance - 101 Rank** (2024)"
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
@@ -99,7 +99,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: Developed a method to generate a synthetic Energy Consumption Score for firms. We ingest 10k, etc filings from Rifinitiv via LLM then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for firms. We ingest 10k, etc filings from Rifinitiv via LLM then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after robustness checks and outlier corrections. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:

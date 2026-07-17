@@ -61,7 +61,7 @@ cv:
         highlights:
     accomplishments:
       - number: "**Masters in Computer - Kerala state entrance - 101 Rank** (2024)"
-      - number: "**Erasmus+ Scholarship** Fully funded by European Union in Italy (2024)"
+      - number: "**Erasmus+ Scholarship** Fully funded by **European Union in Italy** (2024)"
       - number: "**Rajagiri Scholarship for Excellence** Highest amount awarded among winners (2024)"
       - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
       - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
@@ -101,7 +101,7 @@ cv:
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
-        summary: Developed a method to generate a synthetic Energy Consumption Score for firms. We ingest 10k, etc filings via LLM (Vertex AI) then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after Hausman tests and wild cluster bootstrap. This shows energy consumption vs mining profitability.
+        summary: Developed a method to generate a synthetic Energy Consumption Score for firms. We ingest 10k, etc filings via LLM (Vertex AI) then adds financial metrics to make score for Bitcoin mining firms. Ran Stata panel regression of score vs Return-On-Assets, after robustness checks and outlier corrections. This shows energy consumption vs mining profitability.
         doi:
         url:
         journal:
