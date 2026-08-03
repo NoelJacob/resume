@@ -15,9 +15,47 @@ cv:
       username: noeljacob
   custom_connections:
   sections:
-    about:
+    profile:
       - Hardworking **PGDM (MBA) graduate** with a passion for Finance and Statistics subjects. Self-taught **systems programmer** and former UPSC exam aspirant. **I learn fast, think hard, and deliver results.**
+    experience:
+      - company: Grant Thornton
+        position: Live Project
+        date:
+        start_date: 2025-09
+        end_date: 2025-10
+        location:
+        summary:
+        highlights:
+          - Studied the impact of quick commerce on Kirana stores, after surveys from 2 districts, and presented my analysis
+      # - company: Pangolin Analytics
+      #   position: Co-Founder (startup)
+      #   date:
+      #   start_date: 2025-11
+      #   end_date: 2026-03
+      #   location: Remote
+      #   summary:
+      #   highlights:
+      #     - Started an AI consulting firm, along with founders from Oxford and Glasgow universities
+    accomplishments:
+      - number: "**Erasmus+ Scholarship** Fully funded by **European Union** in Italy (2024)"
+      - number: "**Rajagiri Scholarship for Excellence** Highest amount awarded among winners (2024)"
+      - number: "**Masters in Computer** State entrance - **101 Rank** (2024)"
+      - number: "**CAT Exam - 91.25%** (**95.8% Quants, 96.6% Verbal**) (2023)"
+      - number: "**XAT Exam - 90.1%** (**97.5% Decision Making**) (2024)"
+      # - number: "Preparing for **CFA Level I**"
     education:
+      - institution: Rajagiri Business School
+        area: Finance and Analytics
+        degree: PGDM
+        date:
+        start_date: 2024-07
+        end_date: 2026-06
+        location: Kochi, India
+        summary:
+        highlights:
+          - "**Technology Lead** of IEDC, the college startup incubator"
+          - Organizing committee for National Business Quiz, India's 2nd largest, and increased participation by 30%
+          # - Attended Bangalore tech fest, representing college
       - institution: University of Padova
         area: Computational Finance
         degree: Semester Exchange
@@ -28,24 +66,12 @@ cv:
         summary:
         highlights:
           - Attended various extra math and finance workshops by industry leaders
-      - institution: Rajagiri Business School
-        area: Finance and Analytics
-        degree: PGDM
-        date:
-        start_date: 2024-07
-        end_date: 2026-03
-        location: Kochi, India
-        summary:
-        highlights:
-          - "**Technology Lead** of IEDC, the college startup incubator"
-          - Organizing committee for National Business Quiz, India's 2nd largest, and increased participation by 30%
-          # - Attended Bangalore tech fest, representing college
       - institution: "Mahatma Gandhi University"
         area: "English"
         degree: "BA"
         date:
         start_date: "2020-07"
-        end_date: "2023-03"
+        end_date: "2023-06"
         location: Kottayam, India
         summary:
         highlights:
@@ -59,32 +85,6 @@ cv:
       #   location: Chennai, India
       #   summary:
       #   highlights:
-    accomplishments:
-      - number: "**Erasmus+ Scholarship** Fully funded by **European Union in Italy** (2024)"
-      - number: "**Rajagiri Scholarship for Excellence** Highest amount awarded among winners (2024)"
-      - number: "**Masters in Computer entrance - 101 Rank** in state (2024)"
-      - number: "**CAT Exam - 91.25 %ile** nationally (**95.8 %ile Quants, 96.6 %ile Verbal**) (2023)"
-      - number: "**XAT Exam - 90.1 %ile** nationally (**97.5 %ile Decision Making**) (2024)"
-      # - number: "Preparing for **CFA Level I**"
-    experience:
-      - company: Grant Thornton
-        position: Live Project
-        date:
-        start_date: 2025-09
-        end_date: 2025-10
-        location: Remote
-        summary:
-        highlights:
-          - Studied the impact of quick commerce on Kirana stores, after surveys from 2 districts, and presented my analysis
-      # - company: Pangolin Analytics
-      #   position: Co-Founder (startup)
-      #   date:
-      #   start_date: 2025-11
-      #   end_date: 2026-03
-      #   location: Remote
-      #   summary:
-      #   highlights:
-      #     - Started an AI consulting firm, along with founders from Oxford and Glasgow universities
     skills:
       # - label: Tools
       #   details: Excel, Alteryx, Mathematica, SPSS, Stata
@@ -167,16 +167,16 @@ cv:
       - number: "**NISM: Mutual Fund Distributors -** allows to legally distribute Mutual Funds in India (2025)"
       - number: "**Alteryx Core** (2025)"
     course_certificates:
-      - label: 56 courses completed in total
-        details: Coursera, edX, etc
+      - label: 56 courses in total
+        details: Coursera, edX, etc (mostly during COVID)
       - label: Finance (11)
-        details: Risk management, Global markets, Fraud analysis from Kpmg, ISB, LMU munich, etc
+        details: Risk management, Global markets, Fraud analysis from Kpmg, LMU munich, etc
       - label: ML (21)
-        details: Deep learning, NLP, RL from IBM, Washington and Helsinki universities, etc
+        details: Deep learning, NLP, RL from IBM, Washington university, etc
       - label: Blockchain (16)
-        details: Smart contracts from Insead, Buffalo and Nicosia universities
+        details: Smart contracts from Insead, Nicosia university, etc
       - label: Data Science (4)
-        details: Econometrics, Game theory from IBM, Johns hopkins and Michigan universities
+        details: Econometrics, Game theory from IBM, Johns hopkins university, etc
     extracurricular_activities:
       - number: "**Open-source - 230 Github commits** previous year with **100+ total stars** received"
       - number: "**Agentic AI challenge - 1st** by Greyamp Consulting (2025)"
