@@ -168,7 +168,7 @@ cv:
       - number: "**Alteryx Core** (2025)"
     course_certificates:
       - label: 56 courses in total
-        details: Coursera, edX, etc (mostly during COVID)
+        details: Coursera, edX, etc (during COVID)
       - label: Finance (11)
         details: Risk management, Global markets, Fraud analysis from Kpmg, LMU munich, etc
       - label: ML (21)
