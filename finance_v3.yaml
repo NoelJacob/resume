@@ -37,11 +37,12 @@ cv:
       #   highlights:
       #     - Started an AI consulting firm, along with founders from Oxford and Glasgow universities
     accomplishments:
-      - number: "**Erasmus+ Scholarship** Fully funded by **European Union** in Italy (2024)"
-      - number: "**Rajagiri Scholarship for Excellence** Highest amount awarded among winners (2024)"
-      - number: "**Masters in Computer** State entrance - **101 Rank** (2024)"
-      - number: "**CAT Exam - 91.25%** (**95.8% Quants, 96.6% Verbal**) (2023)"
-      - number: "**XAT Exam - 90.1%** (**97.5% Decision Making**) (2024)"
+      - number: "**Erasmus+ Scholarship** fully funded by **European Union** in Italy (2024)"
+      - number: "**Rajagiri Scholarship for Excellence** with highest amount awarded among winners (2024)"
+      - number: "**TCS NQT Exam** - 69.9% of which **100% for Python Programming** (2026)"
+      - number: "MCA (Masters in Computer Applications) State Entrance Exam - **Rank 101** (2024)"
+      - number: "**CAT Exam - 91.25%** of which **95.8% for Quants, 96.6% for Verbal** (2023)"
+      - number: "**XAT Exam - 90.1%** of which **97.5% for Decision Making** (2024)"
       # - number: "Preparing for **CFA Level I**"
     education:
       - institution: Rajagiri Business School
@@ -49,13 +50,14 @@ cv:
         degree: PGDM
         date:
         start_date: 2024-07
-        end_date: 2026-03
+        end_date: 2026-06
         location: Kochi, India
         summary:
         highlights:
-          - "**Technology Lead** of IEDC, the college startup incubator"
-          - Organizing committee for National Business Quiz, India's 2nd largest, and increased participation by 30%
-          # - Attended Bangalore tech fest, representing college
+          - "**Technology Head** of IEDC, the college startup incubator"
+          - Part of committee for National Business Quiz, India's 2nd largest, and increased participation by 30%
+          - Conducted 12 offline quizzes in 6 colleges for National Business Quiz prilims
+          - Represented college at Bangalore Tech Fest, to connect with industry leaders from 30+ companies
       - institution: University of Padova
         area: Computational Finance
         degree: Semester Exchange
@@ -65,13 +67,13 @@ cv:
         location: Padova, Italy
         summary:
         highlights:
-          - Attended various extra math and finance workshops by industry leaders
+          - Enrolled in various extra math and finance workshops by industry leaders
       - institution: "Mahatma Gandhi University"
         area: "English"
         degree: "BA"
         date:
         start_date: "2020-07"
-        end_date: "2023-03"
+        end_date: "2023-06"
         location: Kottayam, India
         summary:
         highlights:
@@ -124,21 +126,21 @@ cv:
       #   start_date:
       #   end_date:
       #   location:
-      #   summary: Chat app like Perplexity with web search tool and RAG with local GGUF models (rust, flutter, langchain)
+      #   summary: Chat app like Perplexity with web search tool and RAG with GGUF models on Huggingface **(rust, flutter, langchain)**
       #   highlights:
       # - name: Arch linux package maintainer
       #   date: 2024-04
       #   start_date:
       #   end_date:
       #   location: "[github: noeljacob/aur](https://github.com/noeljacob/aur)"
-      #   summary: Distributes builds of packages like Bun for Arch users (rust, github actions)
+      #   summary: Distributes builds of packages like Bun for Arch users **(rust, github actions)**
       #   highlights:
       # - name: Zig lang compiler manager
       #   date: 2024-03
       #   start_date:
       #   end_date:
       #   location: "[github: noeljacob/zman](https://github.com/noeljacob/zman)"
-      #   summary: Install and manage different versions of compilers for Zig language (rust)
+      #   summary: Install and manage different versions of compilers for Zig language **(rust)**
       #   highlights:
       - name: Blockchain wallet
         date: 2022-11
@@ -159,7 +161,7 @@ cv:
       #   start_date:
       #   end_date:
       #   location:
-      #   summary: Shows AI predictions on graph of virus spread for countries. (redis db, redis AI, react)
+      #   summary: Shows AI predictions on graph of virus spread for countries. **(redis db, redis AI, react)**
       #   highlights:
     professional_certificates:
       - number: "**NISM: Mutual Fund Distributors -** allows to legally distribute Mutual Funds in India (2025)"
