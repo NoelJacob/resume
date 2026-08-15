@@ -37,12 +37,12 @@ cv:
       #   highlights:
       #     - Started an AI consulting firm, along with founders from Oxford and Glasgow universities
     accomplishments:
-      - number: "**TCS NQT Exam** - 69.9% of which **100% for Python Programming** (2026)"
+      - number: "**TCS NQT Exam** - 69.9% with **100% for Python Programming** (2026)"
       - number: "MCA (Masters in Computer Applications) State Entrance Exam - **Rank 101** (2024)"
       - number: "**Erasmus+ Scholarship** fully funded by **European Union** in Italy (2024)"
       - number: "**Rajagiri Scholarship for Excellence** with highest amount awarded among winners (2024)"
-      - number: "**CAT Exam - 91.25%** of which **95.8% for Quants, 96.6% for Verbal** (2023)"
-      - number: "**XAT Exam - 90.1%** of which **97.5% for Decision Making** (2024)"
+      - number: "**CAT Exam - 91.25%** with **95.8% for Quants, 96.6% for Verbal** (2023)"
+      - number: "**XAT Exam - 90.1%** with **97.5% for Decision Making** (2024)"
     education:
       - institution: Rajagiri Business School
         area: Finance and Analytics
@@ -98,7 +98,7 @@ cv:
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
     publications:
-      - title: "(**Upcoming**) Effect of energy consumption of Bitcoin mining firms on price ratios"
+      - title: "(**WIP**) Effect of energy use on Bitcoin mining firms' profitability using LLM approach"
         authors:
           - "***Noel Jacob***"
           - "**Prof. Rintu Anthony PhD**"
