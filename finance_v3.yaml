@@ -95,7 +95,7 @@ cv:
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
-        details: Python, R, Nodejs, PyTorch, CatBoost, n8n, AWS, Pandas, SQL, AI-agent workflow
+        details: Python, R, TypeScript, PyTorch, CatBoost, n8n, AWS, Pandas, SQL, AI-agent workflow
     publications:
       - title: "(**WIP**) Effect of energy use on Bitcoin mining firms' profitability using LLM approach"
         authors:
