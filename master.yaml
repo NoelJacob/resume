@@ -95,7 +95,7 @@ cv:
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
-        details: Python, Docker, Rust, TypeScript, PyTorch, Llama.cpp, n8n, Flutter, Pandas, SQL, R, VectorDB
+        details: Python, Docker, Rust, TypeScript, PyTorch, Llama.cpp, n8n, Flutter, Pandas, SQL, R, VectorDB, Kafka
       - label: Infrastructure
         details: Mechanical Sympathy, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face, CI/CD
     publications:
