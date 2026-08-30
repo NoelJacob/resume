@@ -91,13 +91,13 @@ cv:
       # - label: Tools
       #   details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Finance
-        details: Excel, Accounting, Reconciliation, Securities research, Capital markets, Root cause analysis
+        details: Excel (advanced), Accounting, Securities research, Capital markets, Root cause analysis
       - label: Quant
         details: Alteryx, Stata, SPSS, Modeling, Time-series analysis, Data Analytics, Mathematica
       - label: Tech
-        details: Python, R, Rust, TypeScript, PyTorch, CatBoost, Llama.cpp, n8n, Flutter, Pandas, SQL, Vector DB
+        details: Python, Docker, Rust, TypeScript, PyTorch, Llama.cpp, n8n, Flutter, Pandas, SQL, R, VectorDB
       - label: Infrastructure
-        details: Mechanical Sympathy, Docker, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face
+        details: Mechanical Sympathy, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face, CI/CD
     publications:
       - title: "(**WIP**) Effect of energy use on Bitcoin mining firms' profitability using LLM approach"
         authors:
