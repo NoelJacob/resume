@@ -90,7 +90,7 @@ cv:
       # - label: Tools
       #   details: Excel, Alteryx, Mathematica, SPSS, Stata
       - label: Tech
-        details: Python, Docker, Rust, TypeScript, PyTorch, Llama.cpp, n8n, Flutter, Pandas, SQL, R, VectorDB, Kafka
+        details: Python, Docker, Rust, TypeScript, PyTorch, Llama.cpp, n8n, Pandas, SQL, R, VectorDB, Kafka, CrewAI, Langchain
       - label: Infrastructure
         details: Mechanical Sympathy, Github actions, AWS, LLM deployment, AI-agent workflow, Hugging Face, CI/CD
       - label: Finance
