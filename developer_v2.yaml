@@ -32,7 +32,7 @@ cv:
         date:
         start_date: 2023-01
         end_date: 2026-07
-        location: Remote
+        location:
         summary:
         highlights:
           - Developed RAG pipelines, websites and applications to 5+ small business business clients who consulted me
