@@ -24,12 +24,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release list --limit 100 --json name --jq '.[].name' | while read -r release_id; do
+          gh release list --json name --jq '.[].name' | while read -r release_id; do
             echo "Deleting release $release_id..."
             gh release delete "$release_id" --yes
           done
 
-          gh release list --limit 100 --json tagName --jq '.[].tagName' | while read -r tag; do
+          gh release list --json tagName --jq '.[].tagName' | while read -r tag; do
             echo "Deleting tag $tag..."
             git push origin --delete "$tag"
           done
