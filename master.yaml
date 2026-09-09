@@ -30,7 +30,7 @@ cv:
       - company: Self-employed
         position: Freelance Developer
         date:
-        start_date: 2023-01
+        start_date: 2022-01
         end_date: 2026-07
         location:
         summary:
@@ -189,7 +189,7 @@ cv:
       - label: Data Science (4)
         details: Econometrics, Game theory from IBM, Johns hopkins university, etc
     extracurricular_activities:
-      - number: "**Open-source - 300+ Github commits** previous year with **100+ total stars** received"
+      - number: "**Open-source - 7 years on Github** with **300+ commits in past year** and **100+ total stars** received"
       - number: "**Agentic AI Contest - 1st Prize** by Greyamp Consulting (2025)"
       - number: "**Best Manager Contest - Finalist (3x)** at SCMS College fest (2025, 2024) and St. Alberts fest (2025)"
       - number: "**MindsDB Machine Learning Contest - 2nd Prize** (2022)"
