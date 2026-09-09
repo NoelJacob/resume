@@ -17,7 +17,7 @@ jobs:
           cache: "pip"
           cache-dependency-path: .github/workflows/release.yaml
       - uses: extractions/setup-just@v4
-      - run: pip install "rendercv[full]"
+      - run: pip install "rendercv[full] @ git+https://github.com/NoelJacob/rendercv@append-list"
       - name: Render yaml
         run: just
       - name: Delete Previous Release and Tag
