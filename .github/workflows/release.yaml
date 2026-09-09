@@ -13,14 +13,25 @@ jobs:
       - uses: actions/checkout@v6
       - uses: actions/setup-python@v6
         with:
-          python-version: '3.12'
-          cache: 'pip'
+          python-version: "3.14"
+          cache: "pip"
           cache-dependency-path: .github/workflows/release.yaml
+      - uses: extractions/setup-just@v4
       - run: pip install "rendercv[full]"
       - name: Render yaml
+        run: just
+      - name: Delete Previous Release and Tag
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          for file in *.yaml; do
-            rendercv render "$file"
+          gh release list --limit 100 --json id --jq '.[].id' | while read -r release_id; do
+            echo "Deleting release $release_id..."
+            gh release delete "$release_id" --yes
+          done
+
+          gh release list --limit 100 --json tagName --jq '.[].tagName' | while read -r tag; do
+            echo "Deleting tag $tag..."
+            git push origin --delete "$tag"
           done
       - name: Set tag name
         run: |
