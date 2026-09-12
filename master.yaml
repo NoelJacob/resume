@@ -27,15 +27,15 @@ cv:
         summary:
         highlights:
           - Studied the impact of quick commerce on Kirana stores, after surveys from 2 districts, and did a quantitative analysis including trend projections. Then presented this analysis.
-      - company: Self-employed
-        position: Freelance Developer
-        date:
-        start_date: 2022-01
-        end_date: 2026-07
-        location:
-        summary:
-        highlights:
-          - Developed RAG pipelines, websites and applications to 5+ small business business clients who consulted me
+      # - company: Self-employed
+      #   position: Freelance Developer
+      #   date:
+      #   start_date: 2022-01
+      #   end_date: 2026-07
+      #   location:
+      #   summary:
+      #   highlights:
+      #     - Developed RAG pipelines, websites and applications to 5+ small business business clients who consulted me
       # - company: Pangolin Analytics
       #   position: Co-Founder (startup)
       #   date:
